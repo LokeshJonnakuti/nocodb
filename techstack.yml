@@ -1,0 +1,2785 @@
+repo_name: LokeshJonnakuti/nocodb
+report_id: 3b4ed3017ad04fa74921b8881e6df6c2
+version: 0.1
+repo_type: Public
+timestamp: '2024-04-14T10:58:19+00:00'
+requested_by: wingkwong
+provider: github
+branch: develop
+detected_tools_count: 200
+tools:
+- name: CSS 3
+  description: The latest evolution of the Cascading Style Sheets language
+  website_url: https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/6727/css.png
+  detection_source_url: https://github.com/LokeshJonnakuti/nocodb
+  detection_source: Repo Metadata
+- name: EJS
+  description: An Embedded JavaScript templating Language
+  website_url: https://ejs.co/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Templating Languages & Extensions
+  image_url: https://img.stackshare.io/no-img-open-source.png
+  detection_source_url: https://github.com/LokeshJonnakuti/nocodb/blob/develop/packages/nocodb/package.json
+  detection_source: packages/nocodb/package.json
+  last_updated_by: Pranav C
+  last_updated_on: 2023-04-05 17:22:52.000000000 Z
+- name: Golang
+  description: An open source programming language that makes it easy to build simple,
+    reliable, and efficient software
+  website_url: http://golang.org/
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1005/O6AczwfV_400x400.png
+  detection_source_url: https://github.com/LokeshJonnakuti/nocodb/blob/develop/packages/nocodb/Dockerfile
+  detection_source: packages/nocodb/Dockerfile
+  last_updated_by: Pranav C
+  last_updated_on: 2023-04-17 06:39:25.000000000 Z
+- name: Handlebars.js
+  description: Minimal Templating on Steroids
+  website_url: http://handlebarsjs.com/
+  version: 4.7.7
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Templating Languages & Extensions
+  image_url: https://img.stackshare.io/service/1143/Handlebars.png
+  detection_source_url: https://github.com/LokeshJonnakuti/nocodb/blob/develop/packages/nc-cli/package-lock.json
+  detection_source: packages/nocodb/package.json
+  last_updated_by: Pranav C
+  last_updated_on: 2023-04-17 06:39:25.000000000 Z
+- name: JavaScript
+  description: Lightweight, interpreted, object-oriented language with first-class
+    functions
+  website_url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/LokeshJonnakuti/nocodb
+  detection_source: Repo Metadata
+- name: Ruby
+  description: A dynamic, interpreted, open source programming language with a focus
+    on simplicity and productivity
+  website_url: https://www.ruby-lang.org
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/989/ruby.png
+  detection_source_url: https://github.com/LokeshJonnakuti/nocodb/blob/develop/packages/nocodb/package.json
+  detection_source: packages/nocodb/package.json
+  last_updated_by: Pranav C
+  last_updated_on: 2023-04-05 17:22:52.000000000 Z
+- name: SQL
+  description: It is a domain-specific language used in programming
+  website_url: https://en.wikipedia.org/wiki/SQL
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/2271/default_068d33483bba6b81ee13fbd4dc7aab9780896a54.png
+  detection_source_url: https://github.com/LokeshJonnakuti/nocodb/blob/develop/packages/nocodb/tests/mysql-dump/mysql-sakila-delete-data.sql
+  detection_source: packages/nocodb/tests/mysql-dump/mysql-sakila-delete-data.sql
+  last_updated_by: "“pranavxc”"
+  last_updated_on: 2021-05-27 06:07:53.000000000 Z
+- name: Smarty
+  description: Template engine for PHP
+  website_url: http://www.smarty.net/
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Templating Languages & Extensions
+  image_url: https://img.stackshare.io/service/3693/smarty.png
+  detection_source_url: https://github.com/LokeshJonnakuti/nocodb
+  detection_source: Repo Metadata
+- name: TypeScript
+  description: A superset of JavaScript that compiles to clean JavaScript output
+  website_url: http://www.typescriptlang.org
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1612/bynNY5dJ.jpg
+  detection_source_url: https://github.com/LokeshJonnakuti/nocodb
+  detection_source: Repo Metadata
+- name: ".NET"
+  description: A free, cross-platform, open source developer platform for building
+    many different types of applications
+  website_url: http://www.microsoft.com/net/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/1014/IoPy1dce_400x400.png
+  detection_source_url: https://github.com/LokeshJonnakuti/nocodb/blob/develop/packages/nc-cli/package.json
+  detection_source: packages/nc-cli/package.json
+  last_updated_by: "“pranavxc”"
+  last_updated_on: 2021-05-27 06:07:53.000000000 Z
+- name: Chart.js
+  description: Simple, clean and engaging charts for designers and developers
+  website_url: http://www.chartjs.org/
+  version: 4.4.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript Utilities & Libraries
+  image_url: https://img.stackshare.io/service/3866/_GD1-XrU_400x400.jpg
+  detection_source_url: https://github.com/LokeshJonnakuti/nocodb/blob/develop/packages/nc-gui/package.json
+  detection_source: packages/nc-gui/package.json
+  last_updated_by: renovate[bot]
+  last_updated_on: 2023-11-19 12:14:38.000000000 Z
+- name: ExpressJS
+  description: Sinatra inspired web development framework for node.js -- insanely
+    fast, flexible, and simple
+  website_url: http://expressjs.com/
+  version: 4.18.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Microframeworks (Backend)
+  image_url: https://img.stackshare.io/service/1163/hashtag.png
+  detection_source_url: https://github.com/LokeshJonnakuti/nocodb/blob/develop/packages/nc-cli/package-lock.json
+  detection_source: packages/nc-cli/package.json
+  last_updated_by: dependabot[bot]
+  last_updated_on: 2022-12-06 16:20:59.000000000 Z
+- name: NestJS
+  description: A progressive Node.js framework for building efficient and scalable
+    server-side applications by @kammysliwiec.
+  website_url: nestjs.com
+  version: 10.2.10
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/8747/4zsOyxko_400x400.jpg
+  detection_source_url: https://github.com/LokeshJonnakuti/nocodb/blob/develop/packages/nocodb/package.json
+  detection_source: packages/nocodb/package.json
+  last_updated_by: Pranav C
+  last_updated_on: 2023-04-05 17:22:52.000000000 Z
+- name: Node.js
+  description: A platform built on Chrome's JavaScript runtime for easily building
+    fast, scalable network applications
+  website_url: http://nodejs.org/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/1011/n1JRsFeB_400x400.png
+  detection_source_url: https://github.com/LokeshJonnakuti/nocodb/blob/develop/packages/nc-cli/package.json
+  detection_source: packages/nc-cli/package.json
+  last_updated_by: Pranav C
+  last_updated_on: 2022-10-13 09:31:50.000000000 Z
+- name: Nuxt.js
+  description: The Vue.js Framework
+  website_url: https://nuxtjs.org
+  version: 3.8.2
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Front-End Frameworks
+  image_url: https://img.stackshare.io/service/7304/23360933.png
+  detection_source_url: https://github.com/LokeshJonnakuti/nocodb/blob/develop/packages/nc-gui/package.json
+  detection_source: packages/nc-gui/package.json
+  last_updated_by: renovate[bot]
+  last_updated_on: 2023-11-19 12:14:38.000000000 Z
+- name: React
+  description: A JavaScript library for building user interfaces
+  website_url: https://reactjs.org/
+  version: 18.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript UI Libraries
+  image_url: https://img.stackshare.io/service/1020/OYIaJ1KK.png
+  detection_source_url: https://github.com/LokeshJonnakuti/nocodb/blob/develop/packages/noco-docs/package-lock.json
+  detection_source: packages/noco-docs/package.json
+  last_updated_by: աɨռɢӄաօռɢ
+  last_updated_on: 2023-11-17 05:45:35.000000000 Z
+- name: RxJS
+  description: The Reactive Extensions for JavaScript
+  website_url: http://reactivex.io/rxjs/
+  version: 6.6.7
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Concurrency Frameworks
+  image_url: https://img.stackshare.io/service/1796/984368.png
+  detection_source_url: https://github.com/LokeshJonnakuti/nocodb/blob/develop/packages/nc-cli/package-lock.json
+  detection_source: packages/nocodb/package.json
+  last_updated_by: Pranav C
+  last_updated_on: 2023-04-05 17:22:52.000000000 Z
+- name: Sass
+  description: Syntactically Awesome Style Sheets
+  website_url: http://sass-lang.com/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: CSS Pre-processors / Extensions
+  image_url: https://img.stackshare.io/service/1171/jCR2zNJV.png
+  detection_source_url: https://github.com/LokeshJonnakuti/nocodb/blob/develop/packages/nc-gui/package.json
+  detection_source: packages/nc-gui/package.json
+  last_updated_by: Pranav C
+  last_updated_on: 2022-06-29 06:37:30.000000000 Z
+- name: Vue.js
+  description: A progressive framework for building user interfaces
+  website_url: http://vuejs.org/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript MVC Frameworks
+  image_url: https://img.stackshare.io/service/3837/paeckCWC.png
+  detection_source_url: https://github.com/LokeshJonnakuti/nocodb/blob/develop/packages/nc-gui/package.json
+  detection_source: packages/nc-gui/package.json
+  last_updated_by: Pranav C
+  last_updated_on: 2023-08-23 21:28:19.000000000 Z
+- name: windiCSS
+  description: Next generation utility-first CSS framework
+  website_url: https://windicss.org/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Front-End Frameworks
+  image_url: https://img.stackshare.io/service/25635/default_fd0c69966493e17be763464e6b1fa0b948edd3bf.png
+  detection_source_url: https://github.com/LokeshJonnakuti/nocodb/blob/develop/packages/nc-gui/package.json
+  detection_source: packages/nc-gui/package.json
+  last_updated_by: Wing-Kam Wong
+  last_updated_on: 2023-06-15 07:42:53.000000000 Z
+- name: Bull
+  description: Premium Queue package for handling jobs and messages in NodeJS
+  website_url: https://github.com/OptimalBits/bull
+  open_source: true
+  hosted_saas: true
+  category: Data Stores
+  sub_category: Background Processing
+  image_url: https://img.stackshare.io/service/9146/bull-logo.png
+  detection_source_url: https://github.com/LokeshJonnakuti/nocodb/blob/develop/packages/nocodb/package.json
+  detection_source: packages/nocodb/package.json
+  last_updated_by: Pranav C
+  last_updated_on: 2023-04-05 17:22:52.000000000 Z
+- name: BullMQ
+  description: A library that implements a fast and robust queue system
+  website_url: https://github.com/taskforcesh/bullmq
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Data Stores
+  sub_category: Message Queue
+  image_url: https://img.stackshare.io/service/25280/default_d1dbf45c67d448a8a16413d63d3c21cdca003fb8.png
+  detection_source_url: https://github.com/LokeshJonnakuti/nocodb/blob/develop/packages/nocodb/package.json
+  detection_source: packages/nocodb/package.json
+  last_updated_by: Pranav C
+  last_updated_on: 2023-04-05 17:22:52.000000000 Z
+- name: Clickhouse
+  description: A column-oriented database management system
+  website_url: https://clickhouse.yandex/
+  open_source: false
+  hosted_saas: true
+  category: Data Stores
+  sub_category: Databases
+  image_url: https://img.stackshare.io/service/5725/cloickhouse.png
+  detection_source_url: https://github.com/LokeshJonnakuti/nocodb/blob/develop/packages/nocodb/package.json
+  detection_source: packages/nocodb/package.json
+  last_updated_by: Pranav C
+  last_updated_on: 2023-08-23 21:28:19.000000000 Z
+- name: Cloud DB for Mysql
+  description: Easily setup and manage the MySQL database service
+  website_url: https://www.ncloud.com/product/database/cloudDbMysql
+  open_source: false
+  hosted_saas: true
+  category: Data Stores
+  sub_category: SQL Database as a Service
+  image_url: https://img.stackshare.io/service/21275/default_078eb0ae2b56280a937ed073a3ba4332291f9ba8.png
+  detection_source_url: https://github.com/LokeshJonnakuti/nocodb/blob/develop/docker-compose/mysql/docker-compose.yml
+  detection_source: docker-compose/mysql/docker-compose.yml
+  last_updated_by: renovate[bot]
+  last_updated_on: 2023-11-19 04:39:54.000000000 Z
+- name: Cron
+  description: Background-only application
+  website_url: https://directory.fsf.org/wiki/Cron
+  version: 1.8.2
+  open_source: false
+  hosted_saas: false
+  category: Data Stores
+  sub_category: Background Processing
+  image_url: https://img.stackshare.io/service/2416/default_274ed9bcc98502018f007cfcd8c09f3514d3d319.png
+  detection_source_url: https://github.com/LokeshJonnakuti/nocodb/blob/develop/packages/nocodb/package.json
+  detection_source: packages/nocodb/package.json
+  last_updated_by: Pranav C
+  last_updated_on: 2023-04-06 10:49:21.000000000 Z
+- name: GraphQL
+  description: A data query language and runtime
+  website_url: http://graphql.org/
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Query Languages
+  image_url: https://img.stackshare.io/service/3820/12972006.png
+  detection_source_url: https://github.com/LokeshJonnakuti/nocodb/blob/develop/packages/nocodb/package.json
+  detection_source: packages/nocodb/package.json
+  last_updated_by: renovate[bot]
+  last_updated_on: 2023-11-19 12:14:38.000000000 Z
+- name: MSSQL
+  description: It is an enterprise-level database system that is very popular for
+    Windows web servers
+  website_url: https://www.microsoft.com/en-us/sql-server
+  open_source: false
+  hosted_saas: false
+  category: Data Stores
+  sub_category: Databases
+  image_url: https://img.stackshare.io/service/2445/ZKsJsucq_400x400.jpg
+  detection_source_url: https://github.com/LokeshJonnakuti/nocodb/blob/develop/packages/nc-cli/package.json
+  detection_source: packages/nc-cli/package.json
+  last_updated_by: "“pranavxc”"
+  last_updated_on: 2021-05-27 06:07:53.000000000 Z
+- name: Microsoft SQL Server
+  description: A relational database management system developed by Microsoft
+  website_url: http://microsoft.com/sqlserver
+  open_source: false
+  hosted_saas: false
+  category: Data Stores
+  sub_category: Databases
+  image_url: https://img.stackshare.io/service/1027/sql_server.png
+  detection_source_url: https://github.com/LokeshJonnakuti/nocodb/blob/develop/docker-compose/mssql/docker-compose.yml
+  detection_source: docker-compose/mssql/docker-compose.yml
+  last_updated_by: Wing-Kam Wong
+  last_updated_on: 2022-10-31 08:05:14.000000000 Z
+- name: Minio
+  description: AWS S3 open source alternative written in Go
+  website_url: https://minio.io/
+  version: 7.1.3
+  license: AGPL-3.0
+  open_source: true
+  hosted_saas: false
+  category: Data Stores
+  sub_category: Cloud Storage
+  image_url: https://img.stackshare.io/service/4485/gTawkyAA.png
+  detection_source_url: https://github.com/LokeshJonnakuti/nocodb/blob/develop/packages/nocodb/package.json
+  detection_source: packages/nocodb/package.json
+  last_updated_by: renovate[bot]
+  last_updated_on: 2023-11-19 12:14:38.000000000 Z
+- name: MySQL
+  description: The world's most popular open source database
+  website_url: http://www.mysql.com
+  version: 2.18.1
+  open_source: true
+  hosted_saas: false
+  category: Data Stores
+  sub_category: Databases
+  image_url: https://img.stackshare.io/service/1025/logo-mysql-170x170.png
+  detection_source_url: https://github.com/LokeshJonnakuti/nocodb/blob/develop/packages/nc-cli/package-lock.json
+  detection_source: docker-compose/mysql/docker-compose.yml
+  last_updated_by: "“pranavxc”"
+  last_updated_on: 2021-05-27 06:07:53.000000000 Z
+- name: PostgreSQL
+  description: A powerful, open source object-relational database system
+  website_url: http://www.postgresql.org/
+  version: 11.6.6
+  open_source: true
+  hosted_saas: false
+  category: Data Stores
+  sub_category: Databases
+  image_url: https://img.stackshare.io/service/1028/ASOhU5xJ.png
+  detection_source_url: https://github.com/LokeshJonnakuti/nocodb/blob/develop/charts/nocodb/Chart.yaml
+  detection_source: docker-compose/pg/docker-compose.yml
+  last_updated_by: Wing-Kam Wong
+  last_updated_on: 2022-10-31 08:05:14.000000000 Z
+- name: SQLite
+  description: A software library that implements a self-contained, serverless, zero-configuration,
+    transactional SQL database engine
+  website_url: http://www.sqlite.org/
+  open_source: false
+  hosted_saas: true
+  category: Data Stores
+  sub_category: Databases
+  image_url: https://img.stackshare.io/service/1071/sqlite.jpg
+  detection_source_url: https://github.com/LokeshJonnakuti/nocodb/blob/develop/packages/nocodb/package.json
+  detection_source: packages/nocodb/package.json
+  last_updated_by: Pranav C
+  last_updated_on: 2023-04-05 17:22:52.000000000 Z
+- name: Serverless AppSync
+  description: Easily and quickly deploy GraphQL APIs on AWS
+  website_url: https://github.com/serverless-components/aws-app-sync
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: GraphQL Tools
+  image_url: https://img.stackshare.io/service/11394/appsync.png
+  detection_source_url: https://github.com/LokeshJonnakuti/nocodb/blob/develop/docker-compose/mssql/docker-compose.yml
+  detection_source: docker-compose/mssql/docker-compose.yml
+  last_updated_by: Wing-Kam Wong
+  last_updated_on: 2022-10-31 08:05:14.000000000 Z
+- name: Socket.IO
+  description: Realtime application framework (Node.JS server)
+  website_url: http://socket.io/
+  version: 4.4.1
+  open_source: true
+  hosted_saas: false
+  category: Application Hosting
+  sub_category: Realtime Backend / API
+  image_url: https://img.stackshare.io/service/1161/vI0ZZlhZ_400x400.png
+  detection_source_url: https://github.com/LokeshJonnakuti/nocodb/blob/develop/packages/nocodb/package.json
+  detection_source: packages/nc-gui/package.json
+  last_updated_by: renovate[bot]
+  last_updated_on: 2023-11-19 12:14:38.000000000 Z
+- name: Babel
+  description: Use next generation JavaScript, today.
+  website_url: http://babeljs.io/
+  version: 7.16.7
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: JavaScript Compilers
+  image_url: https://img.stackshare.io/service/2739/-1wfGjNw.png
+  detection_source_url: https://github.com/LokeshJonnakuti/nocodb/blob/develop/packages/nc-cli/package-lock.json
+  detection_source: packages/noco-docs/babel.config.js
+  last_updated_by: Pranav C
+  last_updated_on: 2023-08-23 21:28:19.000000000 Z
+- name: Chai
+  description: A BDD / TDD assertion library
+  website_url: http://chaijs.com/
+  version: 4.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Javascript Testing Framework
+  image_url: https://img.stackshare.io/service/1725/chai.png
+  detection_source_url: https://github.com/LokeshJonnakuti/nocodb/blob/develop/packages/nocodb/package.json
+  detection_source: packages/nocodb/package.json
+  last_updated_by: Pranav C
+  last_updated_on: 2023-04-05 17:22:52.000000000 Z
+- name: Codecov
+  description: Hosted coverage reports with awesome features to enhance your CI workflow
+  website_url: https://codecov.io/
+  open_source: false
+  hosted_saas: true
+  category: Build, Test, Deploy
+  sub_category: Code Coverage
+  image_url: https://img.stackshare.io/service/2673/Codecov_Mark_Circle_Pink.png
+  detection_source_url: https://github.com/LokeshJonnakuti/nocodb/blob/develop/packages/nc-cli/package.json
+  detection_source: packages/nc-cli/package.json
+  last_updated_by: "“pranavxc”"
+  last_updated_on: 2021-05-27 06:07:53.000000000 Z
+- name: Docker
+  description: Enterprise Container Platform for High-Velocity Innovation.
+  website_url: https://www.docker.com/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Virtual Machine Platforms & Containers
+  image_url: https://img.stackshare.io/service/586/n4u37v9t_400x400.png
+  detection_source_url: https://github.com/LokeshJonnakuti/nocodb
+  detection_source: Repo Metadata
+- name: Docker Compose
+  description: Define and run multi-container applications with Docker
+  website_url: https://github.com/docker/compose
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Container Tools
+  image_url: https://img.stackshare.io/service/3136/docker-compose.png
+  detection_source_url: https://github.com/LokeshJonnakuti/nocodb/blob/develop/docker-compose/nginx/docker-compose.yml
+  detection_source: docker-compose/nginx/docker-compose.yml
+  last_updated_by: Naveen MR
+  last_updated_on: 2022-02-18 11:45:50.000000000 Z
+- name: Dotenv
+  description: Loads environment variables from .env for Nodejs projects
+  website_url: https://github.com/motdotla/dotenv
+  license: BSD-2-Clause
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Server Configuration and Automation
+  image_url: https://img.stackshare.io/service/8067/default_90dcb1286af7685c68df319c764b80704df1155b.png
+  detection_source_url: https://github.com/LokeshJonnakuti/nocodb/blob/develop/packages/nocodb/package.json
+  detection_source: packages/nocodb/package.json
+  last_updated_by: Pranav C
+  last_updated_on: 2023-04-06 10:49:21.000000000 Z
+- name: ESLint
+  description: The fully pluggable JavaScript code quality tool
+  website_url: http://eslint.org/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Code Review
+  image_url: https://img.stackshare.io/service/3337/Q4L7Jncy.jpg
+  detection_source_url: https://github.com/LokeshJonnakuti/nocodb/blob/develop/packages/nc-gui/package.json
+  detection_source: packages/nc-gui/package.json
+  last_updated_by: Pranav C
+  last_updated_on: 2022-06-29 06:37:30.000000000 Z
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/LokeshJonnakuti/nocodb
+  detection_source: Repo Metadata
+- name: Git-Repo
+  description: Manage Gitlab, GitHub and Bitbucket from the command line
+  website_url: https://github.com/guyzmo/git-repo
+  license: GPL-2.0
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Git Tools
+  image_url: https://img.stackshare.io/no-img-open-source.png
+  detection_source_url: https://github.com/LokeshJonnakuti/nocodb/blob/develop/packages/nc-cli/package.json
+  detection_source: packages/nc-cli/package.json
+  last_updated_by: "“pranavxc”"
+  last_updated_on: 2021-05-27 06:07:53.000000000 Z
+- name: GitHub Actions
+  description: Automate your workflow from idea to production
+  website_url: https://github.com/features/actions
+  open_source: false
+  hosted_saas: true
+  category: Build, Test, Deploy
+  sub_category: Continuous Integration
+  image_url: https://img.stackshare.io/service/11563/actions.png
+  detection_source_url: https://github.com/LokeshJonnakuti/nocodb/blob/develop/.github/workflows/ci-cd.yml
+  detection_source: ".github/workflows/ci-cd.yml"
+  last_updated_by: Wing-Kam Wong
+  last_updated_on: 2023-08-28 03:59:01.000000000 Z
+- name: Jest
+  description: Painless JavaScript Unit Testing
+  website_url: http://facebook.github.io/jest/
+  version: 29.5.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Javascript Testing Framework
+  image_url: https://img.stackshare.io/service/830/jest.png
+  detection_source_url: https://github.com/LokeshJonnakuti/nocodb/blob/develop/packages/nocodb/package.json
+  detection_source: packages/nocodb/package.json
+  last_updated_by: Pranav C
+  last_updated_on: 2023-04-05 17:22:52.000000000 Z
+- name: Mocha
+  description: Simple, flexible, fun javascript test framework for node.js &amp; the
+    browser
+  website_url: http://mochajs.org/
+  version: 10.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Javascript Testing Framework
+  image_url: https://img.stackshare.io/service/832/mocha.png
+  detection_source_url: https://github.com/LokeshJonnakuti/nocodb/blob/develop/packages/nocodb/package.json
+  detection_source: packages/nocodb/package.json
+  last_updated_by: renovate[bot]
+  last_updated_on: 2023-11-22 04:58:27.000000000 Z
+- name: NGINX
+  description: A high performance free open source web server powering busiest sites
+    on the Internet.
+  website_url: http://nginx.org
+  open_source: false
+  hosted_saas: false
+  category: Application Hosting
+  sub_category: Web Servers
+  image_url: https://img.stackshare.io/service/1052/YMxUfyWf.png
+  detection_source_url: https://github.com/LokeshJonnakuti/nocodb/blob/develop/docker-compose/nginx-proxy-manager/docker-compose.yml
+  detection_source: docker-compose/nginx-proxy-manager/docker-compose.yml
+  last_updated_by: ArjenR
+  last_updated_on: 2021-09-23 17:57:32.000000000 Z
+- name: NuGet
+  description: The package manager for .NET
+  website_url: https://www.nuget.org/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/service/2637/6I3oEOP4_400x400.jpg
+  detection_source_url: https://github.com/LokeshJonnakuti/nocodb/blob/develop/packages/nc-cli/package.json
+  detection_source: packages/nc-cli/package.json
+  last_updated_by: "“pranavxc”"
+  last_updated_on: 2021-05-27 06:07:53.000000000 Z
+- name: Prettier
+  description: Prettier is an opinionated code formatter.
+  website_url: https://prettier.io/
+  version: 1.19.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Code Review
+  image_url: https://img.stackshare.io/service/7035/default_66f265943abed56bcdbfca1c866a4261b1fbb063.jpg
+  detection_source_url: https://github.com/LokeshJonnakuti/nocodb/blob/develop/packages/nc-cli/package-lock.json
+  detection_source: packages/nc-cli/package.json
+  last_updated_by: "“pranavxc”"
+  last_updated_on: 2021-05-27 06:07:53.000000000 Z
+- name: RubyGems
+  description: Easily download, install, and use ruby software packages on your system
+  website_url: https://rubygems.org/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/service/12795/5jL6-BA5_400x400.jpeg
+  detection_source_url: https://github.com/LokeshJonnakuti/nocodb/blob/develop/packages/nocodb/package.json
+  detection_source: packages/nocodb/package.json
+  last_updated_by: Pranav C
+  last_updated_on: 2023-04-05 17:22:52.000000000 Z
+- name: Sentry
+  description: See performance issues, fix errors faster, and optimize code health.
+  website_url: https://sentry.io/welcome/?utm_source=stackshare&utm_medium=link&utm_campaign=profile
+  open_source: true
+  hosted_saas: true
+  category: Monitoring
+  sub_category: Exception Monitoring
+  image_url: https://img.stackshare.io/service/191/default_9262326592c97828a2a4299dec085a3674dd05f4.png
+  detection_source_url: https://github.com/LokeshJonnakuti/nocodb/blob/develop/packages/nocodb/package.json
+  detection_source: packages/nocodb/package.json
+  last_updated_by: renovate[bot]
+  last_updated_on: 2023-11-19 12:14:38.000000000 Z
+- name: SuperTest
+  description: A library for testing node.js HTTP servers
+  website_url: https://www.npmjs.com/package/supertest
+  version: 6.3.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Javascript Testing Framework
+  image_url: https://img.stackshare.io/no-img-open-source.png
+  detection_source_url: https://github.com/LokeshJonnakuti/nocodb/blob/develop/packages/nocodb/package.json
+  detection_source: packages/nocodb/package.json
+  last_updated_by: renovate[bot]
+  last_updated_on: 2023-11-19 04:39:54.000000000 Z
+- name: TSLint
+  description: An extensible linter for the TypeScript language
+  website_url: https://github.com/palantir/tslint
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Code Review
+  image_url: https://img.stackshare.io/service/5561/303157.png
+  detection_source_url: https://github.com/LokeshJonnakuti/nocodb/blob/develop/packages/nc-cli/package.json
+  detection_source: packages/nc-cli/package.json
+  last_updated_by: "“pranavxc”"
+  last_updated_on: 2021-05-27 06:07:53.000000000 Z
+- name: Traefik
+  description: The Cloud Native Edge Router
+  website_url: https://traefik.io/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Load Balancer / Reverse Proxy
+  image_url: https://img.stackshare.io/service/5126/default_0a34be001ec8247c641508aa468564fb386bc50c.png
+  detection_source_url: https://github.com/LokeshJonnakuti/nocodb/blob/develop/docker-compose/traefik/docker-compose.yml
+  detection_source: docker-compose/traefik/docker-compose.yml
+  last_updated_by: Wing-Kam Wong
+  last_updated_on: 2022-10-31 08:05:14.000000000 Z
+- name: Watchtower
+  description: A process for automating Docker container base image updates
+  website_url: https://containrrr.github.io/watchtower/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Container Tools
+  image_url: https://img.stackshare.io/service/11961/default_c154968f06de90d281746931c35cc91e2d8eded0.png
+  detection_source_url: https://github.com/LokeshJonnakuti/nocodb/blob/develop/docker-compose/traefik/docker-compose.yml
+  detection_source: docker-compose/traefik/docker-compose.yml
+  last_updated_by: Wing-Kam Wong
+  last_updated_on: 2022-10-31 08:05:14.000000000 Z
+- name: Webpack
+  description: A bundler for javascript and friends
+  website_url: http://webpack.js.org
+  version: 5.76.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: JS Build Tools / JS Task Runners
+  image_url: https://img.stackshare.io/service/1682/IMG_4636.PNG
+  detection_source_url: https://github.com/LokeshJonnakuti/nocodb/blob/develop/packages/nc-cli/package-lock.json
+  detection_source: packages/nc-cli/package.json
+  last_updated_by: dependabot[bot]
+  last_updated_on: 2023-03-15 04:34:19.000000000 Z
+- name: nodemon
+  description: A simple monitor script for use during development of a node.js app
+  website_url: http://nodemon.io/
+  version: 3.0.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Monitoring
+  sub_category: node.js Application Monitoring
+  image_url: https://img.stackshare.io/service/5577/preview.png
+  detection_source_url: https://github.com/LokeshJonnakuti/nocodb/blob/develop/packages/nocodb/package.json
+  detection_source: packages/nocodb/package.json
+  last_updated_by: renovate[bot]
+  last_updated_on: 2023-11-19 12:14:38.000000000 Z
+- name: npm
+  description: The package manager for JavaScript.
+  website_url: https://www.npmjs.com/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/LokeshJonnakuti/nocodb/blob/develop/packages/nc-cli/package.json
+  detection_source: packages/nc-cli/package.json
+  last_updated_by: "“pranavxc”"
+  last_updated_on: 2021-05-27 06:07:53.000000000 Z
+- name: Airtable
+  description: Real-time spreadsheet-database hybrid
+  website_url: https://airtable.com
+  open_source: false
+  hosted_saas: true
+  category: Application Utilities
+  sub_category: Spreadsheets as a Backend
+  image_url: https://img.stackshare.io/service/1512/logo.png
+  detection_source_url: https://github.com/LokeshJonnakuti/nocodb/blob/develop/packages/nocodb/package.json
+  detection_source: packages/nocodb/package.json
+  last_updated_by: renovate[bot]
+  last_updated_on: 2023-11-19 04:39:54.000000000 Z
+- name: Ora
+  description: Agile task management and visual team collaboration, Ora is your team’s
+    command center with kanban, chat and timers!
+  website_url: https://ora.pm/
+  open_source: false
+  hosted_saas: true
+  category: Collaboration
+  sub_category: Project Management
+  image_url: https://img.stackshare.io/service/6925/preview.png
+  detection_source_url: https://github.com/LokeshJonnakuti/nocodb/blob/develop/packages/nc-cli/package.json
+  detection_source: packages/nc-cli/package.json
+  last_updated_by: "“pranavxc”"
+  last_updated_on: 2021-05-27 06:07:53.000000000 Z
+- name: Twilio
+  description: Bring voice and messaging to your web and mobile applications.
+  website_url: http://www.twilio.com
+  open_source: false
+  hosted_saas: true
+  category: Communications
+  sub_category: Voice and SMS
+  image_url: https://img.stackshare.io/service/130/VrwpNfjh_400x400.png
+  detection_source_url: https://github.com/LokeshJonnakuti/nocodb/blob/develop/packages/nocodb/package.json
+  detection_source: packages/nocodb/package.json
+  last_updated_by: Pranav C
+  last_updated_on: 2023-04-06 10:49:21.000000000 Z
+- name: iDoneThis
+  description: Easy daily check-ins and powerful progress reports to run more effective
+    and productive teams
+  website_url: https://idonethis.com/
+  open_source: false
+  hosted_saas: true
+  category: Collaboration
+  sub_category: Team Task Management
+  image_url: https://img.stackshare.io/service/338/default_f863a3d7f927a74d6ae21e8e152265bd07ca6cfe.png
+  detection_source_url: https://github.com/LokeshJonnakuti/nocodb/blob/develop/docker-compose/nginx/docker-compose.yml
+  detection_source: docker-compose/nginx/docker-compose.yml
+  last_updated_by: Naveen MR
+  last_updated_on: 2022-02-18 11:45:50.000000000 Z
+- name: Alpine Linux
+  description: Security-oriented, lightweight Linux distribution based on musl libc
+    and busybox
+  website_url: https://www.alpinelinux.org/
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Operating Systems
+  image_url: https://img.stackshare.io/service/6429/alpine_linux.png
+  detection_source_url: https://github.com/LokeshJonnakuti/nocodb/blob/develop/docker-compose/nginx/docker-compose.yml
+  detection_source: docker-compose/nginx/docker-compose.yml
+  last_updated_by: Wing-Kam Wong
+  last_updated_on: 2022-10-31 08:05:14.000000000 Z
+- name: Immutable.js
+  description: Immutable persistent data collections for Javascript which increase
+    efficiency and simplicity, by Facebook
+  website_url: http://facebook.github.io/immutable-js/
+  version: 4.3.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript Utilities & Libraries
+  image_url: https://img.stackshare.io/no-img-open-source.png
+  detection_source_url: https://github.com/LokeshJonnakuti/nocodb/blob/develop/packages/noco-docs/package-lock.json
+  detection_source: packages/nc-cli/package.json
+  last_updated_by: Pranav C
+  last_updated_on: 2022-10-13 09:31:50.000000000 Z
+- name: Leaflet
+  description: JavaScript library for mobile-friendly interactive maps
+  website_url: http://leafletjs.com/
+  version: 1.9.4
+  license: BSD-2-Clause
+  open_source: true
+  hosted_saas: false
+  category: Application Utilities
+  sub_category: Mapping APIs
+  image_url: https://img.stackshare.io/service/2392/leaflet_upic.png
+  detection_source_url: https://github.com/LokeshJonnakuti/nocodb/blob/develop/packages/nc-gui/package.json
+  detection_source: packages/nc-gui/package.json
+  last_updated_by: renovate[bot]
+  last_updated_on: 2023-11-19 04:39:54.000000000 Z
+- name: Lerna
+  description: A tool for managing JavaScript projects
+  website_url: https://lerna.js.org/
+  version: 7.0.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript Utilities & Libraries
+  image_url: https://img.stackshare.io/service/6207/OwqAUSQi_400x400.jpg
+  detection_source_url: https://github.com/LokeshJonnakuti/nocodb/blob/develop/package.json
+  detection_source: package.json
+  last_updated_by: Wing-Kam Wong
+  last_updated_on: 2023-06-16 02:39:07.000000000 Z
+- name: Lodash
+  description: A JavaScript utility library
+  website_url: https://lodash.com
+  version: 4.17.21
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript Utilities & Libraries
+  image_url: https://img.stackshare.io/service/2438/lodash.png
+  detection_source_url: https://github.com/LokeshJonnakuti/nocodb/blob/develop/packages/nc-cli/package-lock.json
+  detection_source: packages/nocodb/package.json
+  last_updated_by: Pranav C
+  last_updated_on: 2023-04-06 10:49:21.000000000 Z
+- name: MailerSend
+  description: Transactional email service that delivers
+  website_url: https://www.mailersend.com/
+  open_source: false
+  hosted_saas: false
+  category: Communications
+  sub_category: Transactional Email
+  image_url: https://img.stackshare.io/service/25369/default_51d0d185f2a6f77d17d707c2532801eae697a947.png
+  detection_source_url: https://github.com/LokeshJonnakuti/nocodb/blob/develop/packages/nocodb/package.json
+  detection_source: packages/nocodb/package.json
+  last_updated_by: renovate[bot]
+  last_updated_on: 2023-11-19 12:14:38.000000000 Z
+- name: NocoDB
+  description: Free &amp; open source Airtable alternative
+  website_url: https://www.nocodb.com/
+  license: AGPL-3.0
+  open_source: true
+  hosted_saas: false
+  category: Application Utilities
+  sub_category: Spreadsheets as a Backend
+  image_url: https://img.stackshare.io/service/25692/default_41c9a516466b684cd33cd60eba93b8da035e291e.jpg
+  detection_source_url: https://github.com/LokeshJonnakuti/nocodb/blob/develop/scripts/pkg-executable/package.json
+  detection_source: scripts/pkg-executable/package.json
+  last_updated_by: Pranav C
+  last_updated_on: 2022-06-23 06:19:55.000000000 Z
+- name: Nodemailer
+  description: A module for Node.js applications to allow email sending
+  website_url: http://www.nodemailer.com/
+  open_source: true
+  hosted_saas: false
+  category: Communications
+  sub_category: Transactional Email
+  image_url: https://img.stackshare.io/service/2862/qr2-jCLr.jpg
+  detection_source_url: https://github.com/LokeshJonnakuti/nocodb/blob/develop/packages/nocodb/package.json
+  detection_source: packages/nocodb/package.json
+  last_updated_by: renovate[bot]
+  last_updated_on: 2023-11-19 12:14:38.000000000 Z
+- name: Passport
+  description: Simple, unobtrusive authentication for Node.js
+  website_url: http://passportjs.org/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Application Utilities
+  sub_category: User Management and Authentication
+  image_url: https://ucarecdn.com/8f3cac0e-b146-4f0f-878c-680a6671d804/
+  detection_source_url: https://github.com/LokeshJonnakuti/nocodb/blob/develop/packages/nocodb/package.json
+  detection_source: packages/nocodb/package.json
+  last_updated_by: renovate[bot]
+  last_updated_on: 2023-11-19 12:14:38.000000000 Z
+- name: Pinia
+  description: The Vue Store that you will enjoy using
+  website_url: https://pinia.vuejs.org/
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/48301/default_0cffd727391e16b2a8bd6edbcffc0255a3a541d0.png
+  detection_source_url: https://github.com/LokeshJonnakuti/nocodb/blob/develop/packages/nc-gui/package.json
+  detection_source: packages/nc-gui/package.json
+  last_updated_by: renovate[bot]
+  last_updated_on: 2023-11-19 04:39:54.000000000 Z
+- name: React Navigation
+  description: Flexible navigation library for React Native and web. Learn once, navigate
+    anywhere.
+  website_url: https://reactnavigation.org/
+  open_source: false
+  hosted_saas: false
+  category: Mobile
+  sub_category: Cross-Platform Mobile Tools
+  image_url: https://img.stackshare.io/service/6422/react-navigation.png
+  detection_source_url: https://github.com/LokeshJonnakuti/nocodb/blob/develop/packages/nc-cli/package.json
+  detection_source: packages/nc-cli/package.json
+  last_updated_by: Wing-Kam Wong
+  last_updated_on: 2022-10-29 06:00:50.000000000 Z
+- name: Shell
+  description: A shell is a text-based terminal, used for manipulating programs and
+    files. Shell scripts typically manage program execution.
+  website_url: https://en.wikipedia.org/wiki/Shell_script
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png
+  detection_source_url: https://github.com/LokeshJonnakuti/nocodb
+  detection_source: Repo Metadata
+- name: Showdown
+  description: JavaScript port of Markdown
+  website_url: https://github.com/coreyti/showdown
+  version: 2.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript Utilities & Libraries
+  image_url: https://img.stackshare.io/no-img-open-source.png
+  detection_source_url: https://github.com/LokeshJonnakuti/nocodb/blob/develop/packages/nc-gui/package.json
+  detection_source: packages/nc-gui/package.json
+  last_updated_by: Muhammed Mustafa
+  last_updated_on: 2023-11-23 13:04:17.000000000 Z
+- name: Ubuntu
+  description: The leading OS for PC, tablet, phone and cloud
+  website_url: http://www.ubuntu.com/
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Operating Systems
+  image_url: https://img.stackshare.io/service/3511/cof_orange_hex.jpg
+  detection_source_url: https://github.com/LokeshJonnakuti/nocodb/blob/develop/tests/docker/Dockerfile
+  detection_source: tests/docker/Dockerfile
+  last_updated_by: Pranav C
+  last_updated_on: 2023-08-23 21:28:19.000000000 Z
+- name: axios
+  description: Promise based HTTP client for the browser and node.js
+  website_url: https://github.com/mzabriskie/axios
+  version: 0.21.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript Utilities & Libraries
+  image_url: https://img.stackshare.io/no-img-open-source.png
+  detection_source_url: https://github.com/LokeshJonnakuti/nocodb/blob/develop/packages/nc-cli/package-lock.json
+  detection_source: packages/nc-cli/package.json
+  last_updated_by: dependabot[bot]
+  last_updated_on: 2021-09-03 15:00:08.000000000 Z
+- name: dataloader
+  website_url: https://github.com/facebook/dataloader
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/10611/69631.png
+  detection_source_url: https://github.com/LokeshJonnakuti/nocodb/blob/develop/packages/nocodb/package.json
+  detection_source: packages/nocodb/package.json
+  last_updated_by: renovate[bot]
+  last_updated_on: 2023-11-19 04:39:54.000000000 Z
+- name: husky
+  website_url: https://github.com/typicode/husky
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/9527/5502029.jpeg
+  detection_source_url: https://github.com/LokeshJonnakuti/nocodb/blob/develop/package.json
+  detection_source: package.json
+  last_updated_by: renovate[bot]
+  last_updated_on: 2023-11-19 04:39:54.000000000 Z
+- name: lint-staged
+  website_url: https://github.com/okonet/lint-staged
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/10577/11071.jpeg
+  detection_source_url: https://github.com/LokeshJonnakuti/nocodb/blob/develop/tests/playwright/package.json
+  detection_source: tests/playwright/package.json
+  last_updated_by: Wing-Kam Wong
+  last_updated_on: 2023-07-20 14:36:01.000000000 Z
+- name: qrcode
+  website_url: http://goqr.me/
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/8580/no-img-open-source.png
+  detection_source_url: https://github.com/LokeshJonnakuti/nocodb/blob/develop/packages/nc-gui/package.json
+  detection_source: packages/nc-gui/package.json
+  last_updated_by: renovate[bot]
+  last_updated_on: 2023-11-28 11:53:13.000000000 Z
+- name: crypto-js
+  description: JavaScript library of crypto standards
+  package_url: https://www.npmjs.com/crypto-js
+  version: 4.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16283/default_9924e5da1d50ea01e52b48e4fae4b1347af5e4ff.png
+  detection_source_url: https://github.com/LokeshJonnakuti/nocodb/blob/develop/packages/nocodb/package.json
+  detection_source: packages/nocodb/package.json
+  last_updated_by: Pranav C
+  last_updated_on: 2023-08-23 21:28:19.000000000 Z
+  vulnerabilities:
+  - name: crypto-js PBKDF2 1,000 times weaker than specified in 1993 and 1.3M times
+      weaker than current standard
+    cve_id: CVE-2023-46233
+    cve_url: https://github.com/advisories/GHSA-xwcq-pm8m-c4vf
+    detected_date: Oct 26
+    severity: critical
+    first_patched: 4.2.0
+- name: mysql2
+  description: Fast mysql driver
+  package_url: https://www.npmjs.com/mysql2
+  version: 3.6.5
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16671/default_4b738bf1758d38dddd276589bbea47fca5a990df.png
+  detection_source_url: https://github.com/LokeshJonnakuti/nocodb/blob/develop/packages/nocodb/package.json
+  detection_source: packages/nocodb/package.json
+  last_updated_by: renovate[bot]
+  last_updated_on: 2023-11-22 04:58:27.000000000 Z
+  vulnerabilities:
+  - name: mysql2 Remote Code Execution (RCE) via the readCodeFor function
+    cve_id: CVE-2024-21508
+    cve_url: https://github.com/advisories/GHSA-fpw7-j2hg-69v5
+    detected_date: Apr 13
+    severity: critical
+    first_patched: 3.9.4
+  - name: mysql2 cache poisoning vulnerability
+    cve_id: CVE-2024-21507
+    cve_url: https://github.com/advisories/GHSA-mqr2-w7wj-jjgr
+    detected_date: Apr 13
+    severity: moderate
+    first_patched: 3.9.3
+  - name: mysql2 vulnerable to Prototype Poisoning
+    cve_id: CVE-2024-21509
+    cve_url: https://github.com/advisories/GHSA-49j4-86m8-q2jw
+    detected_date: Apr 13
+    severity: moderate
+    first_patched: 3.9.4
+- name: knex
+  description: A batteries-included SQL query &amp; schema builder for Postgres
+  package_url: https://www.npmjs.com/knex
+  version: 0.21.21
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16491/default_fc6e1fc17e404d936593b5b901d67abb3386daa3.png
+  detection_source_url: https://github.com/LokeshJonnakuti/nocodb/blob/develop/packages/nc-cli/package-lock.json
+  detection_source: packages/nc-cli/package.json
+  last_updated_by: "“pranavxc”"
+  last_updated_on: 2021-05-27 06:07:53.000000000 Z
+  vulnerabilities:
+  - name: Knex.js has a limited SQL injection vulnerability
+    cve_id: CVE-2016-20018
+    cve_url: https://github.com/advisories/GHSA-4jv9-3563-23j3
+    detected_date: Dec 21
+    severity: high
+    first_patched: 2.4.0
+- name: marked
+  description: A markdown parser built for speed
+  package_url: https://www.npmjs.com/marked
+  version: 0.6.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16065/default_c7b204838197013798409fa2b4dafce450edc7fb.png
+  detection_source_url: https://github.com/LokeshJonnakuti/nocodb/blob/develop/packages/nc-cli/package-lock.json
+  detection_source: packages/nc-gui/package.json
+  last_updated_by: Muhammed Mustafa
+  last_updated_on: 2023-11-23 13:04:17.000000000 Z
+  vulnerabilities:
+  - name: Inefficient Regular Expression Complexity in marked
+    cve_id: CVE-2022-21681
+    cve_url: https://github.com/advisories/GHSA-5v2h-r2cx-5xgj
+    detected_date: Jan 15
+    severity: high
+    first_patched: 4.0.10
+  - name: Inefficient Regular Expression Complexity in marked
+    cve_id: CVE-2022-21680
+    cve_url: https://github.com/advisories/GHSA-rrrm-qjm4-v8hf
+    detected_date: Jan 15
+    severity: high
+    first_patched: 4.0.10
+  - name: Regular Expression Denial of Service in marked
+    cve_id:
+    cve_url: https://github.com/advisories/GHSA-ch52-vgq2-943f
+    detected_date: Aug 22
+    severity: low
+    first_patched: 0.7.0
+- name: xlsx
+  description: SheetJS Spreadsheet data parser and writer
+  package_url: https://www.npmjs.com/xlsx
+  version: 0.17.4
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16781/default_c6eddffbed005d007ab4638fbcac90e4b79576b2.png
+  detection_source_url: https://github.com/LokeshJonnakuti/nocodb/blob/develop/package.json
+  detection_source: package.json
+  last_updated_by: Raju Udava
+  last_updated_on: 2021-11-18 06:30:29.000000000 Z
+  vulnerabilities:
+  - name: SheetJS Regular Expression Denial of Service (ReDoS)
+    cve_id: CVE-2024-22363
+    cve_url: https://github.com/advisories/GHSA-5pgg-2g8v-p4x9
+    detected_date: Apr 9
+    severity: high
+    first_patched: 0.20.2
+  - name: Prototype Pollution in sheetJS
+    cve_id: CVE-2023-30533
+    cve_url: https://github.com/advisories/GHSA-4r6h-8v6p-xvw6
+    detected_date: Apr 25
+    severity: high
+    first_patched: 0.19.3
+- name: express
+  description: Fast, unopinionated, minimalist web framework
+  package_url: https://www.npmjs.com/express
+  version: 4.18.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15818/default_db4a7791d2f1174547374b9b587bc10fec088a5a.png
+  detection_source_url: https://github.com/LokeshJonnakuti/nocodb/blob/develop/packages/nc-cli/package-lock.json
+  detection_source: packages/nc-cli/package.json
+  last_updated_by: dependabot[bot]
+  last_updated_on: 2022-12-06 16:20:59.000000000 Z
+  vulnerabilities:
+  - name: Express.js Open Redirect in malformed URLs
+    cve_id: CVE-2024-29041
+    cve_url: https://github.com/advisories/GHSA-rv95-896h-c2vc
+    detected_date: Mar 26
+    severity: moderate
+    first_patched: 4.19.2
+- name: standard-version
+  description: Replacement for `npm version` with automatic CHANGELOG generation
+  package_url: https://www.npmjs.com/standard-version
+  version: 6.0.1
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16053/default_924b66c04aa848a4028c1a5753a23dae0f835f86.png
+  detection_source_url: https://github.com/LokeshJonnakuti/nocodb/blob/develop/packages/nc-cli/package-lock.json
+  detection_source: packages/nc-cli/package.json
+  last_updated_by: Wing-Kam Wong
+  last_updated_on: 2022-10-27 08:18:43.000000000 Z
+  vulnerabilities:
+  - name: Command Injection in standard-version
+    cve_id:
+    cve_url: https://github.com/advisories/GHSA-7xcx-6wjh-7xp2
+    detected_date: Aug 22
+    severity: moderate
+    first_patched: 8.0.1
+- name: "@google-cloud/storage"
+  description: Cloud Storage Client Library for Node.js
+  package_url: https://www.npmjs.com/@google-cloud/storage
+  version: 7.1.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17753/default_2a0f136cfb588dd9053268b73a18a953e8d65590.png
+  detection_source_url: https://github.com/LokeshJonnakuti/nocodb/blob/develop/packages/nocodb/package.json
+  detection_source: packages/nocodb/package.json
+  last_updated_by: renovate[bot]
+  last_updated_on: 2023-11-19 04:39:54.000000000 Z
+- name: "@istanbuljs/nyc-config-typescript"
+  description: Nyc configuration that works with typescript
+  package_url: https://www.npmjs.com/@istanbuljs/nyc-config-typescript
+  version: 0.1.3
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17448/default_feeb5f9682b10b4223ce6e22e98c891d2c0e3851.png
+  detection_source_url: https://github.com/LokeshJonnakuti/nocodb/blob/develop/packages/nc-cli/package-lock.json
+  detection_source: packages/nc-cli/package.json
+  last_updated_by: Wing-Kam Wong
+  last_updated_on: 2022-10-29 06:00:50.000000000 Z
+- name: "@mdx-js/react"
+  description: React implementation for MDX
+  package_url: https://www.npmjs.com/@mdx-js/react
+  version: 3.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17624/default_61a119a7701a0e8224ca0e4dce7ff951cd67972f.png
+  detection_source_url: https://github.com/LokeshJonnakuti/nocodb/blob/develop/packages/noco-docs/package-lock.json
+  detection_source: packages/noco-docs/package.json
+  last_updated_by: աɨռɢӄաօռɢ
+  last_updated_on: 2023-11-17 05:45:35.000000000 Z
+- name: "@nestjs/common"
+  description: Nest - modern
+  package_url: https://www.npmjs.com/@nestjs/common
+  version: 10.2.10
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16950/default_ebf16e0c8af5e95030933d9e01479224b6665289.png
+  detection_source_url: https://github.com/LokeshJonnakuti/nocodb/blob/develop/packages/nocodb/package.json
+  detection_source: packages/nocodb/package.json
+  last_updated_by: renovate[bot]
+  last_updated_on: 2023-11-20 16:09:39.000000000 Z
+- name: "@nestjs/core"
+  description: Nest - modern, fast, powerful node.js web framework
+  package_url: https://www.npmjs.com/@nestjs/core
+  version: 10.2.10
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17223/default_48f040bdc5f6c639c70bf350f8b8158ede27286c.png
+  detection_source_url: https://github.com/LokeshJonnakuti/nocodb/blob/develop/packages/nocodb/package.json
+  detection_source: packages/nocodb/package.json
+  last_updated_by: renovate[bot]
+  last_updated_on: 2023-11-20 16:09:39.000000000 Z
+- name: "@nestjs/testing"
+  description: Nest - modern
+  package_url: https://www.npmjs.com/@nestjs/testing
+  version: 10.2.10
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17855/default_dc034f75f103514d23b4d1a7fe578415d63216ee.png
+  detection_source_url: https://github.com/LokeshJonnakuti/nocodb/blob/develop/packages/nocodb/package.json
+  detection_source: packages/nocodb/package.json
+  last_updated_by: renovate[bot]
+  last_updated_on: 2023-11-20 16:09:39.000000000 Z
+- name: "@sentry/node"
+  description: Offical Sentry SDK for Node.js
+  package_url: https://www.npmjs.com/@sentry/node
+  version: 6.19.7
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18428/default_9499465ee49aaffadf126149b962e9838bc4a993.png
+  detection_source_url: https://github.com/LokeshJonnakuti/nocodb/blob/develop/packages/nocodb/package.json
+  detection_source: packages/nocodb/package.json
+  last_updated_by: renovate[bot]
+  last_updated_on: 2023-11-19 12:14:38.000000000 Z
+- name: "@types/chai"
+  description: TypeScript definitions for chai
+  package_url: https://www.npmjs.com/@types/chai
+  version: 4.3.11
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15922/default_e0a4fb1126d7400f419f0931cf1669947a5bc552.png
+  detection_source_url: https://github.com/LokeshJonnakuti/nocodb/blob/develop/packages/nocodb/package.json
+  detection_source: packages/nocodb/package.json
+  last_updated_by: renovate[bot]
+  last_updated_on: 2023-11-24 09:24:30.000000000 Z
+- name: "@types/ejs"
+  description: TypeScript definitions for ejs
+  package_url: https://www.npmjs.com/@types/ejs
+  version: 3.1.5
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17988/default_ab659b5159df20d1c32f07b936d63628134f5b3d.png
+  detection_source_url: https://github.com/LokeshJonnakuti/nocodb/blob/develop/packages/nocodb/package.json
+  detection_source: packages/nocodb/package.json
+  last_updated_by: renovate[bot]
+  last_updated_on: 2023-11-24 09:24:30.000000000 Z
+- name: "@types/express"
+  description: TypeScript definitions for Express
+  package_url: https://www.npmjs.com/@types/express
+  version: 4.17.21
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16100/default_d947c1690e032a288145c7e2491999eab3ea8ede.png
+  detection_source_url: https://github.com/LokeshJonnakuti/nocodb/blob/develop/packages/noco-docs/package-lock.json
+  detection_source: packages/nocodb/package.json
+  last_updated_by: renovate[bot]
+  last_updated_on: 2023-11-24 09:24:30.000000000 Z
+- name: "@types/jest"
+  description: TypeScript definitions for Jest
+  package_url: https://www.npmjs.com/@types/jest
+  version: 29.5.10
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15840/default_004658cda9b38934f2871435e9dc15608c86e8be.png
+  detection_source_url: https://github.com/LokeshJonnakuti/nocodb/blob/develop/packages/nocodb/package.json
+  detection_source: packages/nocodb/package.json
+  last_updated_by: renovate[bot]
+  last_updated_on: 2023-11-24 09:24:30.000000000 Z
+- name: "@types/leaflet"
+  description: TypeScript definitions for Leaflet.js
+  package_url: https://www.npmjs.com/@types/leaflet
+  version: 1.9.8
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18718/default_417b40eb0d0e57406cf660ce53dd8dec69c7401d.png
+  detection_source_url: https://github.com/LokeshJonnakuti/nocodb/blob/develop/packages/nc-gui/package.json
+  detection_source: packages/nc-gui/package.json
+  last_updated_by: renovate[bot]
+  last_updated_on: 2023-11-27 18:47:12.000000000 Z
+- name: "@types/mocha"
+  description: TypeScript definitions for mocha
+  package_url: https://www.npmjs.com/@types/mocha
+  version: 10.0.6
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15893/default_1d65e37e65b7f80761374f0202776043277d505d.png
+  detection_source_url: https://github.com/LokeshJonnakuti/nocodb/blob/develop/packages/nocodb/package.json
+  detection_source: packages/nocodb/package.json
+  last_updated_by: renovate[bot]
+  last_updated_on: 2023-11-24 09:24:30.000000000 Z
+- name: "@types/node"
+  description: TypeScript definitions for Node.js
+  package_url: https://www.npmjs.com/@types/node
+  version: 17.0.8
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15809/default_5e5e8ac63beda29f31f1844df64d4b8247570a66.png
+  detection_source_url: https://github.com/LokeshJonnakuti/nocodb/blob/develop/packages/nc-cli/package-lock.json
+  detection_source: packages/nc-plugin/package.json
+  last_updated_by: mertmit
+  last_updated_on: 2023-04-18 09:12:08.000000000 Z
+- name: "@types/supertest"
+  description: TypeScript definitions for SuperTest
+  package_url: https://www.npmjs.com/@types/supertest
+  version: 2.0.16
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16805/default_31a4e0e11d348225088320f3a5c5ea6fa49c27ad.png
+  detection_source_url: https://github.com/LokeshJonnakuti/nocodb/blob/develop/packages/nocodb/package.json
+  detection_source: packages/nocodb/package.json
+  last_updated_by: renovate[bot]
+  last_updated_on: 2023-11-24 09:24:30.000000000 Z
+- name: "@types/validator"
+  description: TypeScript definitions for validator.js
+  package_url: https://www.npmjs.com/@types/validator
+  version: 13.11.7
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17698/default_52c11a434d2ce37281914a7f804e07cf95ab96f7.png
+  detection_source_url: https://github.com/LokeshJonnakuti/nocodb/blob/develop/packages/nc-gui/package.json
+  detection_source: packages/nc-gui/package.json
+  last_updated_by: renovate[bot]
+  last_updated_on: 2023-11-27 18:47:12.000000000 Z
+- name: "@typescript-eslint/eslint-plugin"
+  description: TypeScript plugin for ESLint
+  package_url: https://www.npmjs.com/@typescript-eslint/eslint-plugin
+  version: 4.33.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15982/default_8b5680d4e916298d08363c291a0d6e34c07ceb15.png
+  detection_source_url: https://github.com/LokeshJonnakuti/nocodb/blob/develop/packages/nc-plugin/package-lock.json
+  detection_source: packages/nc-plugin/package.json
+  last_updated_by: mertmit
+  last_updated_on: 2023-04-18 09:12:08.000000000 Z
+- name: "@typescript-eslint/parser"
+  description: An ESLint custom parser which leverages TypeScript ESTree
+  package_url: https://www.npmjs.com/@typescript-eslint/parser
+  version: 4.33.0
+  license: BSD-2-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15980/default_732016a20524708efe7a4c77497fe9bfeea19ba6.png
+  detection_source_url: https://github.com/LokeshJonnakuti/nocodb/blob/develop/packages/nc-plugin/package-lock.json
+  detection_source: packages/nc-plugin/package.json
+  last_updated_by: mertmit
+  last_updated_on: 2023-04-18 09:12:08.000000000 Z
+- name: "@vue/test-utils"
+  description: Utilities for testing Vue components
+  package_url: https://www.npmjs.com/@vue/test-utils
+  version: 2.0.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16231/default_41f04716a804e853d5c38a5b81ee0ea8a842ad82.png
+  detection_source_url: https://github.com/LokeshJonnakuti/nocodb/blob/develop/packages/nc-gui/package.json
+  detection_source: packages/nc-gui/package.json
+  last_updated_by: renovate[bot]
+  last_updated_on: 2023-11-25 08:32:16.000000000 Z
+- name: ajv
+  description: Another JSON Schema Validator
+  package_url: https://www.npmjs.com/ajv
+  version: 6.12.6
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16186/default_1f3a2fc7d882e29a43394ecdf491b8989ea3f0fa.png
+  detection_source_url: https://github.com/LokeshJonnakuti/nocodb/blob/develop/packages/nc-cli/package-lock.json
+  detection_source: packages/nocodb/package.json
+  last_updated_by: Pranav C
+  last_updated_on: 2023-04-05 17:22:52.000000000 Z
+- name: ant-design-vue
+  description: An enterprise-class UI design language and Vue-based implementation
+  package_url: https://www.npmjs.com/ant-design-vue
+  version: 3.2.20
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18672/default_7e5294813726a85799fe9193da6ec4c30fc0d4a0.png
+  detection_source_url: https://github.com/LokeshJonnakuti/nocodb/blob/develop/packages/nc-gui/package.json
+  detection_source: packages/nc-gui/package.json
+  last_updated_by: renovate[bot]
+  last_updated_on: 2023-11-28 11:53:13.000000000 Z
+- name: archiver
+  description: A streaming interface for archive generation
+  package_url: https://www.npmjs.com/archiver
+  version: 5.0.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16407/default_4cc3f31b8c64a6268fc123f0965a09d1b11180af.png
+  detection_source_url: https://github.com/LokeshJonnakuti/nocodb/blob/develop/packages/nocodb/package.json
+  detection_source: packages/nocodb/package.json
+  last_updated_by: Pranav C
+  last_updated_on: 2023-04-06 10:49:21.000000000 Z
+- name: ava
+  description: Testing can be a drag. AVA helps you get it done
+  package_url: https://www.npmjs.com/ava
+  version: 2.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15883/default_0b10af8ca19c215f781dc07442e75bdc831089d0.png
+  detection_source_url: https://github.com/LokeshJonnakuti/nocodb/blob/develop/packages/nc-cli/package-lock.json
+  detection_source: packages/nc-cli/package.json
+  last_updated_by: "“pranavxc”"
+  last_updated_on: 2021-05-27 06:07:53.000000000 Z
+- name: aws-sdk
+  description: AWS SDK for JavaScript
+  package_url: https://www.npmjs.com/aws-sdk
+  version: 2.1455.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16018/default_7a88bebb451873cc63bd99007de5bd3bb8ef85de.png
+  detection_source_url: https://github.com/LokeshJonnakuti/nocodb/blob/develop/packages/nocodb/package.json
+  detection_source: packages/nocodb/package.json
+  last_updated_by: Pranav C
+  last_updated_on: 2023-11-30 08:24:35.000000000 Z
+- name: bcryptjs
+  description: Optimized bcrypt in plain JavaScript with zero dependencies
+  package_url: https://www.npmjs.com/bcryptjs
+  version: 2.4.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16857/default_627f05e6a07ce29fc9f119417270f38e8aa5c5e2.png
+  detection_source_url: https://github.com/LokeshJonnakuti/nocodb/blob/develop/packages/nocodb/package.json
+  detection_source: packages/nocodb/package.json
+  last_updated_by: Pranav C
+  last_updated_on: 2023-04-06 10:49:21.000000000 Z
+- name: body-parser
+  description: Node.js body parsing middleware
+  package_url: https://www.npmjs.com/body-parser
+  version: 1.20.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15906/default_7c39a83d4acd952df89b1ebfdb94c8646324fbf1.png
+  detection_source_url: https://github.com/LokeshJonnakuti/nocodb/blob/develop/packages/nc-cli/package-lock.json
+  detection_source: packages/nocodb/package.json
+  last_updated_by: renovate[bot]
+  last_updated_on: 2023-11-19 12:14:38.000000000 Z
+- name: boxen
+  description: Create boxes in the terminal
+  package_url: https://www.npmjs.com/boxen
+  version: 3.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16617/default_bfa6d5d12cc0af739d6b3d4c69dddc66832b1d34.png
+  detection_source_url: https://github.com/LokeshJonnakuti/nocodb/blob/develop/packages/nc-cli/package-lock.json
+  detection_source: packages/nc-cli/package.json
+  last_updated_by: "“pranavxc”"
+  last_updated_on: 2021-05-27 06:07:53.000000000 Z
+- name: bullmq
+  description: Queue for messages and jobs based on Redis
+  package_url: https://www.npmjs.com/bullmq
+  version: 1.91.1
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/npm/image.png
+  detection_source_url: https://github.com/LokeshJonnakuti/nocodb/blob/develop/packages/nocodb/package.json
+  detection_source: packages/nocodb/package.json
+  last_updated_by: renovate[bot]
+  last_updated_on: 2023-11-19 12:14:38.000000000 Z
+- name: clear
+  description: Clear the terminal screen if possible
+  package_url: https://www.npmjs.com/clear
+  version: 0.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17068/default_88e2e076a71afdc1de87ad42c80c1606f2689af1.png
+  detection_source_url: https://github.com/LokeshJonnakuti/nocodb/blob/develop/packages/nocodb/package.json
+  detection_source: packages/nocodb/package.json
+  last_updated_by: Pranav C
+  last_updated_on: 2023-04-06 10:49:21.000000000 Z
+- name: colors
+  description: Get colors in your node.js console
+  package_url: https://www.npmjs.com/colors
+  version: 1.4.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15908/default_7c39a83d4acd952df89b1ebfdb94c8646324fbf1.png
+  detection_source_url: https://github.com/LokeshJonnakuti/nocodb/blob/develop/packages/nc-cli/package-lock.json
+  detection_source: packages/nc-cli/package.json
+  last_updated_by: Naveen MR
+  last_updated_on: 2022-01-09 10:23:58.000000000 Z
+- name: compare-versions
+  description: Compare semver version strings to find greater
+  package_url: https://www.npmjs.com/compare-versions
+  version: 6.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18084/image.png
+  detection_source_url: https://github.com/LokeshJonnakuti/nocodb/blob/develop/packages/nocodb/package.json
+  detection_source: packages/nocodb/package.json
+  last_updated_by: pranavxc
+  last_updated_on: 2023-11-30 07:16:25.000000000 Z
+- name: cookie-parser
+  description: Parse HTTP request cookies
+  package_url: https://www.npmjs.com/cookie-parser
+  version: 1.4.6
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16136/default_def3edb85d7fbd20200a5cd7d0a1679e31bc8b3d.png
+  detection_source_url: https://github.com/LokeshJonnakuti/nocodb/blob/develop/packages/nocodb/package.json
+  detection_source: packages/nocodb/package.json
+  last_updated_by: renovate[bot]
+  last_updated_on: 2023-11-19 12:14:38.000000000 Z
+- name: copy-webpack-plugin
+  description: Copy files &amp;&amp; directories with webpack
+  package_url: https://www.npmjs.com/copy-webpack-plugin
+  version: 11.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15941/default_b45165a5d30e541ab11711a34a78209b3e8ed7fd.png
+  detection_source_url: https://github.com/LokeshJonnakuti/nocodb/blob/develop/packages/noco-docs/package-lock.json
+  detection_source: packages/nocodb/package.json
+  last_updated_by: renovate[bot]
+  last_updated_on: 2023-11-19 12:14:38.000000000 Z
+- name: cors
+  description: Node.js CORS middleware
+  package_url: https://www.npmjs.com/cors
+  version: 2.8.5
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16165/default_41f04716a804e853d5c38a5b81ee0ea8a842ad82.png
+  detection_source_url: https://github.com/LokeshJonnakuti/nocodb/blob/develop/packages/nocodb/package.json
+  detection_source: packages/nocodb/package.json
+  last_updated_by: Pranav C
+  last_updated_on: 2023-04-05 18:47:38.000000000 Z
+- name: cross-env
+  description: Run scripts that set and use environment variables across platforms
+  package_url: https://www.npmjs.com/cross-env
+  version: 7.0.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15828/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
+  detection_source_url: https://github.com/LokeshJonnakuti/nocodb/blob/develop/packages/nocodb/package.json
+  detection_source: packages/nocodb/package.json
+  last_updated_by: Muhammed Mustafa
+  last_updated_on: 2023-09-27 08:27:10.000000000 Z
+- name: cz-conventional-changelog
+  description: Commitizen adapter following the conventional-changelog format
+  package_url: https://www.npmjs.com/cz-conventional-changelog
+  version: 2.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15961/default_cbd6c289400672b291755183817e9dd6abe1a612.png
+  detection_source_url: https://github.com/LokeshJonnakuti/nocodb/blob/develop/packages/nc-cli/package-lock.json
+  detection_source: packages/nc-cli/package.json
+  last_updated_by: Wing-Kam Wong
+  last_updated_on: 2022-10-29 06:00:50.000000000 Z
+- name: d3-scale
+  description: Encodings that map abstract data to visual representation
+  package_url: https://www.npmjs.com/d3-scale
+  version: 4.0.2
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16978/default_7a9e63a9526bf5da91e7a6f9f792b13e3543a875.png
+  detection_source_url: https://github.com/LokeshJonnakuti/nocodb/blob/develop/packages/nc-gui/package.json
+  detection_source: packages/nc-gui/package.json
+  last_updated_by: renovate[bot]
+  last_updated_on: 2023-11-19 04:39:54.000000000 Z
+- name: dataloader
+  description: A data loading utility to reduce requests to a backend via batching
+    and caching
+  package_url: https://www.npmjs.com/dataloader
+  version: 2.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18149/default_5813ab9c745152271a057cdab6eeded8939401f3.png
+  detection_source_url: https://github.com/LokeshJonnakuti/nocodb/blob/develop/packages/nocodb/package.json
+  detection_source: packages/nocodb/package.json
+  last_updated_by: renovate[bot]
+  last_updated_on: 2023-11-19 04:39:54.000000000 Z
+- name: dayjs
+  description: 2KB immutable date time library alternative to Moment.js with the same
+    modern API
+  package_url: https://www.npmjs.com/dayjs
+  version: 1.11.10
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16833/default_5c6919c5e02b8e6c83f3a2b23db5b6962e3caca0.png
+  detection_source_url: https://github.com/LokeshJonnakuti/nocodb/blob/develop/packages/nc-gui/package.json
+  detection_source: packages/nc-gui/package.json
+  last_updated_by: renovate[bot]
+  last_updated_on: 2023-11-19 04:39:54.000000000 Z
+- name: debug
+  description: Small debugging utility
+  package_url: https://www.npmjs.com/debug
+  version: 2.6.9
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15852/default_a2f722724df977d0f7752839e5d8845ab41f69d5.png
+  detection_source_url: https://github.com/LokeshJonnakuti/nocodb/blob/develop/packages/nc-cli/package-lock.json
+  detection_source: packages/nocodb/package.json
+  last_updated_by: Wing-Kam Wong
+  last_updated_on: 2023-09-12 14:23:15.000000000 Z
+- name: download
+  description: Download and extract files
+  package_url: https://www.npmjs.com/download
+  version: 8.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16861/default_89212c2fcd02701c275bb6c77ae7dd538cd4b9f2.png
+  detection_source_url: https://github.com/LokeshJonnakuti/nocodb/blob/develop/packages/nc-cli/package-lock.json
+  detection_source: packages/nc-cli/package.json
+  last_updated_by: "“pranavxc”"
+  last_updated_on: 2021-05-27 06:07:53.000000000 Z
+- name: download-git-repo
+  description: Download and extract a git repository
+  package_url: https://www.npmjs.com/download-git-repo
+  version: 3.0.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16320/default_c47f6a56d74fae4d4404d77067b2fa35da6f1924.png
+  detection_source_url: https://github.com/LokeshJonnakuti/nocodb/blob/develop/packages/nc-cli/package-lock.json
+  detection_source: packages/nc-cli/package.json
+  last_updated_by: Wing-Kam Wong
+  last_updated_on: 2022-10-29 06:00:50.000000000 Z
+- name: eslint-config-prettier
+  description: Turns off all rules that are unnecessary or might conflict with Prettier
+  package_url: https://www.npmjs.com/eslint-config-prettier
+  version: 6.15.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15879/default_0b10af8ca19c215f781dc07442e75bdc831089d0.png
+  detection_source_url: https://github.com/LokeshJonnakuti/nocodb/blob/develop/packages/nc-plugin/package-lock.json
+  detection_source: packages/nc-gui/package.json
+  last_updated_by: renovate[bot]
+  last_updated_on: 2023-11-19 04:39:54.000000000 Z
+- name: eslint-plugin-eslint-comments
+  description: Additional ESLint rules for ESLint directive comments
+  package_url: https://www.npmjs.com/eslint-plugin-eslint-comments
+  version: 3.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17716/default_9693d58c90f5c726ee648423687212d2a94266da.png
+  detection_source_url: https://github.com/LokeshJonnakuti/nocodb/blob/develop/packages/nc-plugin/package-lock.json
+  detection_source: packages/nc-plugin/package.json
+  last_updated_by: Wing-Kam Wong
+  last_updated_on: 2022-10-29 08:56:01.000000000 Z
+- name: eslint-plugin-import
+  description: Import with sanity
+  package_url: https://www.npmjs.com/eslint-plugin-import
+  version: 2.27.5
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15806/default_98aa227f51aa9d787815ec3fd98d0ab2bfebbb91.png
+  detection_source_url: https://github.com/LokeshJonnakuti/nocodb/blob/develop/packages/nc-plugin/package-lock.json
+  detection_source: packages/nc-plugin/package.json
+  last_updated_by: Wing-Kam Wong
+  last_updated_on: 2022-10-29 08:56:01.000000000 Z
+- name: eslint-plugin-json
+  description: Eslint plugin for JSON files
+  package_url: https://www.npmjs.com/eslint-plugin-json
+  version: 3.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16548/default_d522554c6a41cb28d922d6d3ad32ad4afa0e3bb5.png
+  detection_source_url: https://github.com/LokeshJonnakuti/nocodb/blob/develop/tests/playwright/package.json
+  detection_source: tests/playwright/package.json
+  last_updated_by: Wing-Kam Wong
+  last_updated_on: 2023-07-20 14:36:01.000000000 Z
+- name: eslint-plugin-prettier
+  description: Runs prettier as an eslint rule
+  package_url: https://www.npmjs.com/eslint-plugin-prettier
+  version: 4.2.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15896/default_6e6e1d6bb189c8bb26c6410618bd597979578f39.png
+  detection_source_url: https://github.com/LokeshJonnakuti/nocodb/blob/develop/packages/nc-gui/package.json
+  detection_source: packages/nc-gui/package.json
+  last_updated_by: renovate[bot]
+  last_updated_on: 2023-11-19 04:39:54.000000000 Z
+- name: extract-zip
+  description: Unzip a zip file into a directory using 100% javascript
+  package_url: https://www.npmjs.com/extract-zip
+  version: 2.0.1
+  license: BSD-2-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17488/default_2ae5beb193365eca46e337162957275ebc9c6b3b.png
+  detection_source_url: https://github.com/LokeshJonnakuti/nocodb/blob/develop/packages/nocodb/package.json
+  detection_source: packages/nocodb/package.json
+  last_updated_by: Pranav C
+  last_updated_on: 2023-04-06 10:49:21.000000000 Z
+- name: file-saver
+  description: An HTML5 saveAs
+  package_url: https://www.npmjs.com/file-saver
+  version: 2.0.5
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16795/default_6e51a44775c61dcb2888547ad406a2f0cf2c344e.png
+  detection_source_url: https://github.com/LokeshJonnakuti/nocodb/blob/develop/packages/nc-gui/package.json
+  detection_source: packages/nc-gui/package.json
+  last_updated_by: renovate[bot]
+  last_updated_on: 2023-11-19 04:39:54.000000000 Z
+- name: fs
+  description: This package name is not currently in use, but was formerly occupied
+    by another package
+  package_url: https://www.npmjs.com/fs
+  version: 0.0.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16098/default_63a34654baee757196ddff2457bd1c9a0dfb7287.png
+  detection_source_url: https://github.com/LokeshJonnakuti/nocodb/blob/develop/package.json
+  detection_source: package.json
+  last_updated_by: oof1lab
+  last_updated_on: 2017-10-29 18:49:51.000000000 Z
+- name: fs-extra
+  description: Fs-extra contains methods that aren't included in the vanilla Node.js
+    fs package
+  package_url: https://www.npmjs.com/fs-extra
+  version: 7.0.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15836/default_b71c906aeda030a5e2f1fe40bf12a93be52404ab.png
+  detection_source_url: https://github.com/LokeshJonnakuti/nocodb/blob/develop/packages/nc-cli/package-lock.json
+  detection_source: packages/nc-cli/package.json
+  last_updated_by: Pranav C
+  last_updated_on: 2022-10-13 09:44:02.000000000 Z
+- name: fuse.js
+  description: Lightweight fuzzy-search
+  package_url: https://www.npmjs.com/fuse.js
+  version: 6.6.2
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17405/default_c11ea7d401c11f11d89301d0302509ab7d72e5ac.png
+  detection_source_url: https://github.com/LokeshJonnakuti/nocodb/blob/develop/packages/nc-gui/package.json
+  detection_source: packages/nc-gui/package.json
+  last_updated_by: Pranav C
+  last_updated_on: 2023-08-23 21:28:19.000000000 Z
+- name: gh-pages
+  description: Publish to a gh-pages branch on GitHub
+  package_url: https://www.npmjs.com/gh-pages
+  version: 2.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15967/default_732016a20524708efe7a4c77497fe9bfeea19ba6.png
+  detection_source_url: https://github.com/LokeshJonnakuti/nocodb/blob/develop/packages/nc-cli/package-lock.json
+  detection_source: packages/nc-cli/package.json
+  last_updated_by: Wing-Kam Wong
+  last_updated_on: 2022-10-29 06:00:50.000000000 Z
+- name: glob
+  description: A little globber
+  package_url: https://www.npmjs.com/glob
+  version: 7.2.0
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15875/default_7c39a83d4acd952df89b1ebfdb94c8646324fbf1.png
+  detection_source_url: https://github.com/LokeshJonnakuti/nocodb/blob/develop/packages/nc-cli/package-lock.json
+  detection_source: packages/nc-cli/package.json
+  last_updated_by: "“pranavxc”"
+  last_updated_on: 2021-05-27 06:07:53.000000000 Z
+- name: graphql-type-json
+  description: JSON scalar types for GraphQL.js
+  package_url: https://www.npmjs.com/graphql-type-json
+  version: 0.3.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18717/default_5ff3c2909e9193c1059b9d7c259b01b31dca9aea.png
+  detection_source_url: https://github.com/LokeshJonnakuti/nocodb/blob/develop/packages/nocodb/package.json
+  detection_source: packages/nocodb/package.json
+  last_updated_by: renovate[bot]
+  last_updated_on: 2023-11-24 09:24:30.000000000 Z
+- name: handlebars
+  description: Handlebars provides the power necessary to let you build semantic templates
+    effectively with no frustration
+  package_url: https://www.npmjs.com/handlebars
+  version: 4.7.7
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16013/default_f8be85789693a9901dbcfa43c135c60525ae49a1.png
+  detection_source_url: https://github.com/LokeshJonnakuti/nocodb/blob/develop/packages/nc-cli/package-lock.json
+  detection_source: packages/nocodb/package.json
+  last_updated_by: Pranav C
+  last_updated_on: 2023-04-17 06:39:25.000000000 Z
+- name: husky
+  description: Prevents bad commit or push
+  package_url: https://www.npmjs.com/husky
+  version: 8.0.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15831/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
+  detection_source_url: https://github.com/LokeshJonnakuti/nocodb/blob/develop/package.json
+  detection_source: package.json
+  last_updated_by: renovate[bot]
+  last_updated_on: 2023-11-19 04:39:54.000000000 Z
+- name: inflection
+  description: A port of inflection-js to node.js module
+  package_url: https://www.npmjs.com/inflection
+  version: 1.12.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17018/default_192373fe2b3ded7bb442c39dbf0f34ca3e5bed5d.png
+  detection_source_url: https://github.com/LokeshJonnakuti/nocodb/blob/develop/packages/nocodb/package.json
+  detection_source: packages/nocodb/package.json
+  last_updated_by: Wing-Kam Wong
+  last_updated_on: 2023-08-28 06:01:10.000000000 Z
+- name: inquirer
+  description: A collection of common interactive command line user interfaces
+  package_url: https://www.npmjs.com/inquirer
+  version: 7.3.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15911/default_4dc9671df0093fd7061f6455afdf054e6cc9dacb.png
+  detection_source_url: https://github.com/LokeshJonnakuti/nocodb/blob/develop/packages/nc-cli/package-lock.json
+  detection_source: packages/nc-cli/package.json
+  last_updated_by: "“pranavxc”"
+  last_updated_on: 2021-05-27 06:07:53.000000000 Z
+- name: ioredis
+  description: A robust
+  package_url: https://www.npmjs.com/ioredis
+  version: 5.3.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16522/default_4e3259350c525d1d859fa80a938000081d7c9db8.png
+  detection_source_url: https://github.com/LokeshJonnakuti/nocodb/blob/develop/packages/nocodb/package.json
+  detection_source: packages/nocodb/package.json
+  last_updated_by: renovate[bot]
+  last_updated_on: 2023-11-19 04:39:54.000000000 Z
+- name: json5
+  description: JSON for humans
+  package_url: https://www.npmjs.com/json5
+  version: 2.2.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16645/default_783b9b6c17b863f264c1418b0eb831316f741afd.png
+  detection_source_url: https://github.com/LokeshJonnakuti/nocodb/blob/develop/packages/nc-cli/package-lock.json
+  detection_source: packages/nocodb/package.json
+  last_updated_by: renovate[bot]
+  last_updated_on: 2023-11-19 04:39:54.000000000 Z
+- name: jsonfile
+  description: Easily read/write JSON files
+  package_url: https://www.npmjs.com/jsonfile
+  version: 4.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16381/default_92302d1bbf4c0f67b862869662b4f69002c94aad.png
+  detection_source_url: https://github.com/LokeshJonnakuti/nocodb/blob/develop/packages/nc-cli/package-lock.json
+  detection_source: packages/nc-cli/package.json
+  last_updated_by: Wing-Kam Wong
+  last_updated_on: 2022-10-27 06:21:15.000000000 Z
+- name: jsonwebtoken
+  description: JSON Web Token implementation
+  package_url: https://www.npmjs.com/jsonwebtoken
+  version: 9.0.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16155/default_77b54a203c743d16eddb6b6390cba17218454fa0.png
+  detection_source_url: https://github.com/LokeshJonnakuti/nocodb/blob/develop/packages/nocodb/package.json
+  detection_source: packages/nocodb/package.json
+  last_updated_by: renovate[bot]
+  last_updated_on: 2023-11-19 04:39:54.000000000 Z
+- name: jwt-decode
+  description: Decode JWT tokens, mostly useful for browser applications
+  package_url: https://www.npmjs.com/jwt-decode
+  version: 3.1.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17395/default_2cd7ed1c123f2fca074a6f4b16c4e73d5bfe82be.png
+  detection_source_url: https://github.com/LokeshJonnakuti/nocodb/blob/develop/packages/nc-gui/package.json
+  detection_source: packages/nc-gui/package.json
+  last_updated_by: renovate[bot]
+  last_updated_on: 2023-11-28 11:53:13.000000000 Z
+- name: lint-staged
+  description: Lint files staged by git
+  package_url: https://www.npmjs.com/lint-staged
+  version: 13.0.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15868/default_e0a4fb1126d7400f419f0931cf1669947a5bc552.png
+  detection_source_url: https://github.com/LokeshJonnakuti/nocodb/blob/develop/tests/playwright/package.json
+  detection_source: tests/playwright/package.json
+  last_updated_by: Wing-Kam Wong
+  last_updated_on: 2023-07-20 14:36:01.000000000 Z
+- name: lru-cache
+  description: A cache object that deletes the least-recently-used items
+  package_url: https://www.npmjs.com/lru-cache
+  version: 6.0.0
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16386/default_4cc3f31b8c64a6268fc123f0965a09d1b11180af.png
+  detection_source_url: https://github.com/LokeshJonnakuti/nocodb/blob/develop/packages/nc-cli/package-lock.json
+  detection_source: packages/nocodb/package.json
+  last_updated_by: Pranav C
+  last_updated_on: 2023-04-06 10:49:21.000000000 Z
+- name: mkdirp
+  description: Recursively mkdir, like `mkdir -p`
+  package_url: https://www.npmjs.com/mkdirp
+  version: 1.0.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15881/default_6743ba96cf149a3c3c68a185199f9705d6eff80e.png
+  detection_source_url: https://github.com/LokeshJonnakuti/nocodb/blob/develop/packages/nc-cli/package-lock.json
+  detection_source: packages/nc-cli/package.json
+  last_updated_by: "“pranavxc”"
+  last_updated_on: 2021-05-27 06:07:53.000000000 Z
+- name: monaco-editor
+  description: A browser based code editor
+  package_url: https://www.npmjs.com/monaco-editor
+  version: 0.33.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18275/default_04867aeead13d19d0c97d0c649f8b38985a43aba.png
+  detection_source_url: https://github.com/LokeshJonnakuti/nocodb/blob/develop/packages/nc-gui/package.json
+  detection_source: packages/nc-gui/package.json
+  last_updated_by: Pranav C
+  last_updated_on: 2023-08-23 21:28:19.000000000 Z
+- name: morgan
+  description: HTTP request logger middleware for node.js
+  package_url: https://www.npmjs.com/morgan
+  version: 1.10.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16097/default_c7b204838197013798409fa2b4dafce450edc7fb.png
+  detection_source_url: https://github.com/LokeshJonnakuti/nocodb/blob/develop/packages/nocodb/package.json
+  detection_source: packages/nocodb/package.json
+  last_updated_by: Pranav C
+  last_updated_on: 2023-04-06 10:49:21.000000000 Z
+- name: multer
+  description: Middleware for handling `multipart/form-data`
+  package_url: https://www.npmjs.com/multer
+  version: 1.4.5
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16421/default_23e0dabcd0197f0c1f0a41268f8ca3f7e8b1f1e2.png
+  detection_source_url: https://github.com/LokeshJonnakuti/nocodb/blob/develop/packages/nocodb/package.json
+  detection_source: packages/nocodb/package.json
+  last_updated_by: renovate[bot]
+  last_updated_on: 2023-11-21 05:02:42.000000000 Z
+- name: nanoid
+  description: A tiny
+  package_url: https://www.npmjs.com/nanoid
+  version: 3.3.7
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17208/default_183829c5079b84333a720d8590a328efc043ba0e.png
+  detection_source_url: https://github.com/LokeshJonnakuti/nocodb/blob/develop/packages/noco-docs/package-lock.json
+  detection_source: packages/nocodb/package.json
+  last_updated_by: Pranav C
+  last_updated_on: 2023-04-05 18:47:38.000000000 Z
+- name: ncp
+  description: Asynchronous recursive file copy utility
+  package_url: https://www.npmjs.com/ncp
+  version: 2.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16261/default_9924e5da1d50ea01e52b48e4fae4b1347af5e4ff.png
+  detection_source_url: https://github.com/LokeshJonnakuti/nocodb/blob/develop/packages/nocodb/package.json
+  detection_source: packages/nocodb/package.json
+  last_updated_by: Pranav C
+  last_updated_on: 2023-04-05 17:22:52.000000000 Z
+- name: npm-run-all
+  description: A CLI tool to run multiple npm-scripts in parallel or sequential
+  package_url: https://www.npmjs.com/npm-run-all
+  version: 4.1.5
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15926/default_b45165a5d30e541ab11711a34a78209b3e8ed7fd.png
+  detection_source_url: https://github.com/LokeshJonnakuti/nocodb/blob/develop/packages/nc-cli/package-lock.json
+  detection_source: packages/nc-cli/package.json
+  last_updated_by: "“pranavxc”"
+  last_updated_on: 2021-05-27 06:07:53.000000000 Z
+- name: nyc
+  description: The Istanbul command line interface
+  package_url: https://www.npmjs.com/nyc
+  version: 14.1.1
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15837/default_1d65e37e65b7f80761374f0202776043277d505d.png
+  detection_source_url: https://github.com/LokeshJonnakuti/nocodb/blob/develop/packages/nc-cli/package-lock.json
+  detection_source: packages/nc-cli/package.json
+  last_updated_by: "“pranavxc”"
+  last_updated_on: 2021-05-27 06:07:53.000000000 Z
+- name: object-hash
+  description: Generate hashes from javascript objects in node and the browser
+  package_url: https://www.npmjs.com/object-hash
+  version: 3.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16940/default_ebf16e0c8af5e95030933d9e01479224b6665289.png
+  detection_source_url: https://github.com/LokeshJonnakuti/nocodb/blob/develop/packages/nocodb/package.json
+  detection_source: packages/nocodb/package.json
+  last_updated_by: renovate[bot]
+  last_updated_on: 2023-11-19 04:39:54.000000000 Z
+- name: open
+  description: Open stuff like URLs, files, executables. Cross-platform
+  package_url: https://www.npmjs.com/open
+  version: 7.4.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16245/default_5dfc1810d0882ab844578a326bb8bf19e45e7227.png
+  detection_source_url: https://github.com/LokeshJonnakuti/nocodb/blob/develop/packages/nc-cli/package-lock.json
+  detection_source: packages/nc-cli/package.json
+  last_updated_by: Wing-Kam Wong
+  last_updated_on: 2022-10-27 06:21:15.000000000 Z
+- name: p-queue
+  description: Promise queue with concurrency control
+  package_url: https://www.npmjs.com/p-queue
+  version: 6.6.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18257/default_315a767553036d5263c95420817fe68cd3885651.png
+  detection_source_url: https://github.com/LokeshJonnakuti/nocodb/blob/develop/packages/nocodb/package.json
+  detection_source: packages/nocodb/package.json
+  last_updated_by: Pranav C
+  last_updated_on: 2023-08-23 21:28:19.000000000 Z
+- name: papaparse
+  description: Fast and powerful CSV parser for the browser that supports web workers
+    and streaming large files
+  package_url: https://www.npmjs.com/papaparse
+  version: 5.4.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17945/default_40b5ae806e118a20c1717c75a46652a7358d8b42.png
+  detection_source_url: https://github.com/LokeshJonnakuti/nocodb/blob/develop/packages/nc-gui/package.json
+  detection_source: packages/nc-gui/package.json
+  last_updated_by: renovate[bot]
+  last_updated_on: 2023-11-27 18:47:12.000000000 Z
+- name: passport-jwt
+  description: Passport authentication strategy using JSON Web Tokens
+  package_url: https://www.npmjs.com/passport-jwt
+  version: 4.0.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18238/default_d0bdfc944c04fa7e84198f9a2784cc716a3d91a3.png
+  detection_source_url: https://github.com/LokeshJonnakuti/nocodb/blob/develop/packages/nocodb/package.json
+  detection_source: packages/nocodb/package.json
+  last_updated_by: renovate[bot]
+  last_updated_on: 2023-11-19 12:14:38.000000000 Z
+- name: passport-local
+  description: Local username and password authentication strategy for Passport
+  package_url: https://www.npmjs.com/passport-local
+  version: 1.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16747/default_adce7cef6d131ffc31466624541462e4db9534d4.png
+  detection_source_url: https://github.com/LokeshJonnakuti/nocodb/blob/develop/packages/nocodb/package.json
+  detection_source: packages/nocodb/package.json
+  last_updated_by: renovate[bot]
+  last_updated_on: 2023-11-19 12:14:38.000000000 Z
+- name: pg
+  description: PostgreSQL client - pure javascript &amp; libpq with the same API
+  package_url: https://www.npmjs.com/pg
+  version: 8.7.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16197/default_3d197518f6bb529bfcc1b685e2cefbdfe83ff108.png
+  detection_source_url: https://github.com/LokeshJonnakuti/nocodb/blob/develop/packages/nc-cli/package-lock.json
+  detection_source: packages/nc-cli/package.json
+  last_updated_by: "“pranavxc”"
+  last_updated_on: 2021-05-27 06:07:53.000000000 Z
+- name: qrcode
+  description: QRCode / 2d Barcode api with both server side and client side support
+    using canvas
+  package_url: https://www.npmjs.com/qrcode
+  version: 1.5.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17638/default_9126b5a628d81e3d41c9b1190587ab1aec9165c5.png
+  detection_source_url: https://github.com/LokeshJonnakuti/nocodb/blob/develop/packages/nc-gui/package.json
+  detection_source: packages/nc-gui/package.json
+  last_updated_by: renovate[bot]
+  last_updated_on: 2023-11-28 11:53:13.000000000 Z
+- name: react-dom
+  description: React package for working with the DOM
+  package_url: https://www.npmjs.com/react-dom
+  version: 18.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15808/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
+  detection_source_url: https://github.com/LokeshJonnakuti/nocodb/blob/develop/packages/noco-docs/package-lock.json
+  detection_source: packages/noco-docs/package.json
+  last_updated_by: աɨռɢӄաօռɢ
+  last_updated_on: 2023-11-17 05:45:35.000000000 Z
+- name: reflect-metadata
+  description: Polyfill for Metadata Reflection API
+  package_url: https://www.npmjs.com/reflect-metadata
+  version: 0.1.13
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16019/default_7a88bebb451873cc63bd99007de5bd3bb8ef85de.png
+  detection_source_url: https://github.com/LokeshJonnakuti/nocodb/blob/develop/packages/nocodb/package.json
+  detection_source: packages/nocodb/package.json
+  last_updated_by: renovate[bot]
+  last_updated_on: 2023-11-19 04:39:54.000000000 Z
+- name: rimraf
+  description: A deep deletion module for node
+  package_url: https://www.npmjs.com/rimraf
+  version: 3.0.2
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15807/default_db4a7791d2f1174547374b9b587bc10fec088a5a.png
+  detection_source_url: https://github.com/LokeshJonnakuti/nocodb/blob/develop/packages/nc-cli/package-lock.json
+  detection_source: packages/nocodb-sdk/package.json
+  last_updated_by: renovate[bot]
+  last_updated_on: 2023-11-19 04:39:54.000000000 Z
+- name: rmdir
+  description: Remove all files in the given path recursively
+  package_url: https://www.npmjs.com/rmdir
+  version: 1.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18409/default_1021985a862e732eb9297518cc13a8986dd63595.png
+  detection_source_url: https://github.com/LokeshJonnakuti/nocodb/blob/develop/packages/nocodb/package.json
+  detection_source: packages/nocodb/package.json
+  last_updated_by: Pranav C
+  last_updated_on: 2023-04-06 10:49:21.000000000 Z
+- name: shelljs
+  description: Portable Unix shell commands for Node.js
+  package_url: https://www.npmjs.com/shelljs
+  version: 0.8.5
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15897/default_1d65e37e65b7f80761374f0202776043277d505d.png
+  detection_source_url: https://github.com/LokeshJonnakuti/nocodb/blob/develop/packages/nc-cli/package-lock.json
+  detection_source: packages/nc-cli/package.json
+  last_updated_by: "“pranavxc”"
+  last_updated_on: 2021-05-27 06:07:53.000000000 Z
+- name: slash
+  description: Convert Windows backslash paths to slash paths
+  package_url: https://www.npmjs.com/slash
+  version: 3.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16831/default_1b078765f7b7ae4ccce598a7251eb06451511e5e.png
+  detection_source_url: https://github.com/LokeshJonnakuti/nocodb/blob/develop/packages/nc-cli/package-lock.json
+  detection_source: packages/nocodb/package.json
+  last_updated_by: Pranav C
+  last_updated_on: 2023-04-06 10:49:21.000000000 Z
+- name: slug
+  description: Slugifies even utf-8 chars!
+  package_url: https://www.npmjs.com/slug
+  version: 8.2.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17225/default_c6388e9ebad8a4ea0209a3440636fd19354e82d2.png
+  detection_source_url: https://github.com/LokeshJonnakuti/nocodb/blob/develop/packages/nocodb/package.json
+  detection_source: packages/nocodb/package.json
+  last_updated_by: renovate[bot]
+  last_updated_on: 2023-11-19 04:39:54.000000000 Z
+- name: socket.io-client
+  description: "[![Build Status]"
+  package_url: https://www.npmjs.com/socket.io-client
+  version: 4.7.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16164/default_ac04a744873b460c4ef30a7450ed0c83223640ab.png
+  detection_source_url: https://github.com/LokeshJonnakuti/nocodb/blob/develop/packages/nc-gui/package.json
+  detection_source: packages/nc-gui/package.json
+  last_updated_by: renovate[bot]
+  last_updated_on: 2023-11-19 12:14:38.000000000 Z
+- name: sortablejs
+  description: JavaScript library for reorderable drag-and-drop lists on modern browsers
+    and touch devices
+  package_url: https://www.npmjs.com/sortablejs
+  version: 1.15.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17481/default_188fa5cbc974fa18aed5a9b1f0d7f2bfaf8f1648.png
+  detection_source_url: https://github.com/LokeshJonnakuti/nocodb/blob/develop/packages/nc-gui/package.json
+  detection_source: packages/nc-gui/package.json
+  last_updated_by: renovate[bot]
+  last_updated_on: 2023-12-01 11:09:14.000000000 Z
+- name: source-map-support
+  description: Fixes stack traces for files with source maps
+  package_url: https://www.npmjs.com/source-map-support
+  version: 0.5.21
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16028/default_c7b204838197013798409fa2b4dafce450edc7fb.png
+  detection_source_url: https://github.com/LokeshJonnakuti/nocodb/blob/develop/packages/nc-cli/package-lock.json
+  detection_source: packages/nocodb/package.json
+  last_updated_by: renovate[bot]
+  last_updated_on: 2023-11-19 12:14:38.000000000 Z
+- name: sqlite3
+  description: Asynchronous, non-blocking SQLite3 bindings
+  package_url: https://www.npmjs.com/sqlite3
+  version: 5.1.6
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16285/default_3b7197abc4df3d7fa7c5292f17b2e6fb0cd1c8d4.png
+  detection_source_url: https://github.com/LokeshJonnakuti/nocodb/blob/develop/packages/nocodb/package.json
+  detection_source: packages/nocodb/package.json
+  last_updated_by: Muhammed Mustafa
+  last_updated_on: 2023-09-27 08:27:10.000000000 Z
+- name: tedious
+  description: A TDS driver, for connecting to MS SQLServer databases
+  package_url: https://www.npmjs.com/tedious
+  version: 6.7.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17702/default_7ff152b9bcf219fad0d56c78a016d5bad6a2a526.png
+  detection_source_url: https://github.com/LokeshJonnakuti/nocodb/blob/develop/packages/nc-cli/package-lock.json
+  detection_source: packages/nocodb/package.json
+  last_updated_by: renovate[bot]
+  last_updated_on: 2023-11-27 18:47:12.000000000 Z
+- name: tinycolor2
+  description: Fast Color Parsing and Manipulation
+  package_url: https://www.npmjs.com/tinycolor2
+  version: 1.4.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16845/default_768abdabb94806c932ace6262b6bbc8241907245.png
+  detection_source_url: https://github.com/LokeshJonnakuti/nocodb/blob/develop/packages/nc-gui/package.json
+  detection_source: packages/nc-gui/package.json
+  last_updated_by: renovate[bot]
+  last_updated_on: 2023-11-19 12:14:38.000000000 Z
+- name: trash-cli
+  description: Move files and folders to the trash
+  package_url: https://www.npmjs.com/trash-cli
+  version: 3.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17355/default_6afdd1bc7e3815a18b56c31d0b4acf372c00f6e2.png
+  detection_source_url: https://github.com/LokeshJonnakuti/nocodb/blob/develop/packages/nc-cli/package-lock.json
+  detection_source: packages/nc-cli/package.json
+  last_updated_by: Wing-Kam Wong
+  last_updated_on: 2022-10-31 04:00:00.000000000 Z
+- name: ts-jest
+  description: A preprocessor with source maps support to help use TypeScript with
+    Jest
+  package_url: https://www.npmjs.com/ts-jest
+  version: 29.0.5
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15864/default_6743ba96cf149a3c3c68a185199f9705d6eff80e.png
+  detection_source_url: https://github.com/LokeshJonnakuti/nocodb/blob/develop/packages/nocodb/package.json
+  detection_source: packages/nocodb/package.json
+  last_updated_by: renovate[bot]
+  last_updated_on: 2023-11-22 04:58:27.000000000 Z
+- name: ts-loader
+  description: TypeScript loader for webpack
+  package_url: https://www.npmjs.com/ts-loader
+  version: 8.3.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15938/default_e0a4fb1126d7400f419f0931cf1669947a5bc552.png
+  detection_source_url: https://github.com/LokeshJonnakuti/nocodb/blob/develop/packages/nc-cli/package-lock.json
+  detection_source: packages/nc-cli/package.json
+  last_updated_by: "“pranavxc”"
+  last_updated_on: 2021-05-27 06:07:53.000000000 Z
+- name: ts-node
+  description: TypeScript execution environment and REPL for node.js
+  package_url: https://www.npmjs.com/ts-node
+  version: 8.10.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15830/default_6743ba96cf149a3c3c68a185199f9705d6eff80e.png
+  detection_source_url: https://github.com/LokeshJonnakuti/nocodb/blob/develop/packages/nc-cli/package-lock.json
+  detection_source: packages/nc-cli/package.json
+  last_updated_by: Pranav C
+  last_updated_on: 2022-10-13 09:44:02.000000000 Z
+- name: tsconfig-paths
+  description: Load node modules according to tsconfig paths
+  package_url: https://www.npmjs.com/tsconfig-paths
+  version: 3.14.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16810/default_55e3ea76a7929df1b71c5ea0c9b4130cc87323a4.png
+  detection_source_url: https://github.com/LokeshJonnakuti/nocodb/blob/develop/packages/nc-plugin/package-lock.json
+  detection_source: packages/nocodb/package.json
+  last_updated_by: renovate[bot]
+  last_updated_on: 2023-11-19 12:14:38.000000000 Z
+- name: tslint-config-prettier
+  description: Do you wanna use tslint and prettier without conflicts? tslint-config-prettier
+    disables all conflicting rules that may cause such problems
+  package_url: https://www.npmjs.com/tslint-config-prettier
+  version: 1.18.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16083/default_d947c1690e032a288145c7e2491999eab3ea8ede.png
+  detection_source_url: https://github.com/LokeshJonnakuti/nocodb/blob/develop/packages/nc-cli/package-lock.json
+  detection_source: packages/nc-cli/package.json
+  last_updated_by: Wing-Kam Wong
+  last_updated_on: 2022-10-27 06:21:15.000000000 Z
+- name: tslint-immutable
+  description: TSLint rules to disable mutation in TypeScript
+  package_url: https://www.npmjs.com/tslint-immutable
+  version: 6.0.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17657/default_7af6ad48bb70672183e764a6682bbd75f554517c.png
+  detection_source_url: https://github.com/LokeshJonnakuti/nocodb/blob/develop/packages/nc-cli/package-lock.json
+  detection_source: packages/nc-cli/package.json
+  last_updated_by: Naveen MR
+  last_updated_on: 2022-01-09 19:50:41.000000000 Z
+- name: turndown
+  description: A library that converts HTML to Markdown
+  package_url: https://www.npmjs.com/turndown
+  version: 7.1.2
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/npm/image.png
+  detection_source_url: https://github.com/LokeshJonnakuti/nocodb/blob/develop/packages/nc-gui/package.json
+  detection_source: packages/nc-gui/package.json
+  last_updated_by: Muhammed Mustafa
+  last_updated_on: 2023-11-23 13:04:17.000000000 Z
+- name: typedoc
+  description: Create api documentation for TypeScript projects
+  package_url: https://www.npmjs.com/typedoc
+  version: 0.19.2
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15983/default_8b5680d4e916298d08363c291a0d6e34c07ceb15.png
+  detection_source_url: https://github.com/LokeshJonnakuti/nocodb/blob/develop/packages/nc-plugin/package-lock.json
+  detection_source: packages/nc-plugin/package.json
+  last_updated_by: mertmit
+  last_updated_on: 2023-04-18 09:12:08.000000000 Z
+- name: update-notifier
+  description: Update notifications for your CLI app
+  package_url: https://www.npmjs.com/update-notifier
+  version: 3.0.1
+  license: BSD-2-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16264/default_f04d39fc656c2e32ee1b9d3875a3002459aa3b69.png
+  detection_source_url: https://github.com/LokeshJonnakuti/nocodb/blob/develop/packages/nc-cli/package-lock.json
+  detection_source: packages/nc-cli/package.json
+  last_updated_by: "“pranavxc”"
+  last_updated_on: 2021-05-27 06:07:53.000000000 Z
+- name: uuid
+  description: RFC4122
+  package_url: https://www.npmjs.com/uuid
+  version: 3.4.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15916/default_e0a4fb1126d7400f419f0931cf1669947a5bc552.png
+  detection_source_url: https://github.com/LokeshJonnakuti/nocodb/blob/develop/packages/nc-cli/package-lock.json
+  detection_source: packages/nc-cli/package.json
+  last_updated_by: "“pranavxc”"
+  last_updated_on: 2021-05-27 06:07:53.000000000 Z
+- name: validator
+  description: String validation and sanitization
+  package_url: https://www.npmjs.com/validator
+  version: 13.7.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16255/default_fef27d1523ac1844fc00e83e47bddd8898ff8a89.png
+  detection_source_url: https://github.com/LokeshJonnakuti/nocodb/blob/develop/packages/nc-gui/package.json
+  detection_source: packages/nc-gui/package.json
+  last_updated_by: renovate[bot]
+  last_updated_on: 2023-11-21 05:02:42.000000000 Z
+- name: vue-i18n
+  description: Internationalization plugin for Vue.js
+  package_url: https://www.npmjs.com/vue-i18n
+  version: 9.2.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16963/default_ebf16e0c8af5e95030933d9e01479224b6665289.png
+  detection_source_url: https://github.com/LokeshJonnakuti/nocodb/blob/develop/packages/nc-gui/package.json
+  detection_source: packages/nc-gui/package.json
+  last_updated_by: renovate[bot]
+  last_updated_on: 2023-11-24 09:24:30.000000000 Z
+- name: vuedraggable
+  description: Draggable component for vue
+  package_url: https://www.npmjs.com/vuedraggable
+  version: 4.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17468/default_911633508f32a5d5016c37ab38144cd661ceb682.png
+  detection_source_url: https://github.com/LokeshJonnakuti/nocodb/blob/develop/packages/nc-gui/package.json
+  detection_source: packages/nc-gui/package.json
+  last_updated_by: renovate[bot]
+  last_updated_on: 2023-12-01 11:09:14.000000000 Z
+- name: webpack-cli
+  description: CLI for webpack &amp; friends
+  package_url: https://www.npmjs.com/webpack-cli
+  version: 4.10.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15826/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
+  detection_source_url: https://github.com/LokeshJonnakuti/nocodb/blob/develop/packages/nc-cli/package-lock.json
+  detection_source: packages/nc-cli/package.json
+  last_updated_by: dependabot[bot]
+  last_updated_on: 2023-03-15 04:34:19.000000000 Z
+- name: webpack-node-externals
+  description: Easily exclude node_modules in Webpack bundle
+  package_url: https://www.npmjs.com/webpack-node-externals
+  version: 2.5.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16156/default_ac04a744873b460c4ef30a7450ed0c83223640ab.png
+  detection_source_url: https://github.com/LokeshJonnakuti/nocodb/blob/develop/packages/nc-cli/package-lock.json
+  detection_source: packages/nc-cli/package.json
+  last_updated_by: dependabot[bot]
+  last_updated_on: 2023-03-15 04:34:19.000000000 Z
+- name: yargs
+  description: Yargs the modern, pirate-themed, successor to optimist
+  package_url: https://www.npmjs.com/yargs
+  version: 13.3.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15887/default_3af1504b6f77c55205ba630fe08c472f43b95f6e.png
+  detection_source_url: https://github.com/LokeshJonnakuti/nocodb/blob/develop/packages/nc-cli/package-lock.json
+  detection_source: packages/nc-cli/package.json
+  last_updated_by: "“pranavxc”"
+  last_updated_on: 2021-05-27 06:07:53.000000000 Z
